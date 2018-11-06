@@ -1,16 +1,29 @@
 # KDE Malyalam Localization
 
-Get latest `.po` files of a project :
+## Adding a new package
 
-```
-export REPO_ROOT=$PWD
-export PROJECT=''
+Each package should be in a separate branch
 
-mkdir $REPO_ROOT/locales/templates/$PROJECT
-cd $REPO_ROOT/locales/templates/$PROJECT
-svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PROJECT .
+Find the package to add from https://l10n.kde.org/stats/gui/trunk-kf5/package/
 
-mkdir $REPO_ROOT/locales/ml/$PROJECT
-cd $REPO_ROOT/locales/ml/$PROJECT
-svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PROJECT .
-```
+* Set the package :
+  ```
+  export REPO_ROOT=$PWD
+  export PACKAGE=''
+  ```
+* Make a branch for the package :
+  ```
+  git checkout -b $PACKAGE
+  ```
+* Get the files :
+
+  ```
+  mkdir $REPO_ROOT/locales/templates/$PACKAGE
+  cd $REPO_ROOT/locales/templates/$PACKAGE
+  svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PACKAGE .
+
+  mkdir $REPO_ROOT/locales/ml/$PACKAGE
+  cd $REPO_ROOT/locales/ml/$PACKAGE
+  svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PACKAGE .
+  ```
+* Commit
