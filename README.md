@@ -4,7 +4,7 @@
 
 Each package should be in a separate branch
 
-Find the package to add from https://l10n.kde.org/stats/gui/trunk-kf5/package/
+Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/package/). Example : `applications`, `kde-workspace`
 
 * Set the package :
   ```
