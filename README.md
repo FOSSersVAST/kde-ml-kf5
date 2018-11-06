@@ -20,7 +20,7 @@ Find the package to add from https://l10n.kde.org/stats/gui/trunk-kf5/package/
   ```
   mkdir $REPO_ROOT/locales/templates/$PACKAGE
   cd $REPO_ROOT/locales/templates/$PACKAGE
-  svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PACKAGE .
+  svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/templates/messages/$PACKAGE .
 
   mkdir $REPO_ROOT/locales/ml/$PACKAGE
   cd $REPO_ROOT/locales/ml/$PACKAGE
