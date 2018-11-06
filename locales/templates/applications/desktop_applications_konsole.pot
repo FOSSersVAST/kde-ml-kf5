@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-09-21 01:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: desktop/konsolehere.desktop:13
+msgctxt "Name"
+msgid "Open Terminal Here"
+msgstr ""
+
+#: desktop/konsolehere.desktop:105
+msgctxt "Comment"
+msgid "Opens a terminal at the current folder"
+msgstr ""
+
+#: desktop/konsole.notifyrc:3
+msgctxt "Comment"
+msgid "Konsole"
+msgstr ""
+
+#: desktop/konsole.notifyrc:95
+msgctxt "Name"
+msgid "Bell in Focused Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:128
+msgctxt "Comment"
+msgid "Bell emitted within a focused session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:164
+msgctxt "Name"
+msgid "Bell in Non-Focused Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:197
+msgctxt "Comment"
+msgid "Bell emitted within a non-focused session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:234
+msgctxt "Name"
+msgid "Activity in Non-Focused Monitored Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:267
+msgctxt "Comment"
+msgid "Activity detected in a non-focused monitored session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:303
+msgctxt "Name"
+msgid "Activity in Monitored Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:383
+msgctxt "Comment"
+msgid "Activity detected in a monitored session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:470
+msgctxt "Name"
+msgid "Silence in Non-Focused Monitored Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:503
+msgctxt "Comment"
+msgid "Silence detected in a non-focused monitored session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:539
+msgctxt "Name"
+msgid "Silence in Monitored Session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:619
+msgctxt "Comment"
+msgid "Silence detected in a monitored session"
+msgstr ""
+
+#: desktop/konsole.notifyrc:706
+msgctxt "Name"
+msgid "Session Finished With Non-Zero Status"
+msgstr ""
+
+#: desktop/konsole.notifyrc:789
+msgctxt "Comment"
+msgid "A session has exited with non-zero status"
+msgstr ""
+
+#: desktop/konsolepart.desktop:15 desktop/terminalemulator.desktop:6
+msgctxt "Name"
+msgid "Terminal Emulator"
+msgstr ""
+
+#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:193
+#: desktop/terminalemulator.desktop:98
+msgctxt "Comment"
+msgid "Command line access"
+msgstr ""
+
+#: desktop/konsolerun.desktop:13
+msgctxt "Name"
+msgid "Run In Konsole"
+msgstr ""
+
+#: desktop/konsolerun.desktop:62
+msgctxt "Comment"
+msgid "Run within Konsole"
+msgstr ""
+
+#: desktop/org.kde.konsole.desktop:14
+msgctxt "Name"
+msgid "Konsole"
+msgstr ""
+
+#: desktop/org.kde.konsole.desktop:107
+msgctxt "GenericName"
+msgid "Terminal"
+msgstr ""
+
+#: desktop/org.kde.konsole.desktop:237
+msgctxt "Name"
+msgid "Open a New Window"
+msgstr ""
+
+#: desktop/org.kde.konsole.desktop:288
+msgctxt "Name"
+msgid "Open a New Tab"
+msgstr ""
