@@ -26,4 +26,8 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   cd $REPO_ROOT/locales/ml/$PACKAGE
   svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PACKAGE .
   ```
-* Commit
+* Commit :
+  ```
+  git add $REPO_ROOT/locales
+  git commit $REPO_ROOT/locales -m "Added $PACKAGE locale files"
+  ```
