@@ -1,4 +1,6 @@
-# KDE Malyalam Localization
+# KDE Malayalam Localization
+
+Sources for KDE Malayalam Localization. [KDE-ML Telegram Group](https://t.me/kde_ml)
 
 ## Adding a new package
 
