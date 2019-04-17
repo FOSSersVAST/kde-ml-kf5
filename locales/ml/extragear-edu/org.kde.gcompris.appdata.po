@@ -1,0 +1,158 @@
+# Aiswarya kk <aiswaryakk29@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-30 03:23+0200\n"
+"PO-Revision-Date: 2018-12-12 13:26+0100\n"
+"Last-Translator: Aiswarya kk <aiswaryakk29@gmail.com>\n"
+"Language-Team: Malayalam <kde-i18n-doc@kde.org>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.gcompris.appdata.xml:6
+msgid "GCompris Educational Game"
+msgstr "ജികോംപ്രി വിദ്യാഭ്യാസപരമായ കളി"
+
+#. (itstool) path: component/summary
+#: org.kde.gcompris.appdata.xml:7
+msgid "Multi-Activity Educational game for children 2 to 10"
+msgstr ""
+"2 തൊട്ട് 10 വയസ്സുവരെയുള്ള കുട്ടികൾക്ക് വേണ്ടിയുള്ള വിവിധ-പ്രവർത്തനങ്ങളിലൂടെയുള്ള "
+"വിദ്യാഭ്യാസപരമായ കളി"
+
+#. (itstool) path: description/p
+#: org.kde.gcompris.appdata.xml:9
+msgid ""
+"GCompris is a high quality educational software suite, including a large "
+"number of activities for children aged 2 to 10."
+msgstr ""
+"ജികോംപ്രി, വളരെ ഗുണനിലവാരമുള്ള വിദ്യാഭ്യാസപരമായ ഒരു സോഫ്റ്റുവെയർ ആണ്, ഇതിൽ 2 തൊട്ട് 10 "
+"വയസ്സുവരെയുള്ള കുട്ടികൾക്ക് വേണ്ടിയുള്ള വിവിധ-പ്രവർത്തനങ്ങൾ അടങ്ങിയിരിക്കുന്നു."
+
+#. (itstool) path: description/p
+#: org.kde.gcompris.appdata.xml:10
+msgid ""
+"Some of the activities are game orientated, but nonetheless still "
+"educational."
+msgstr "ചില പ്രവർത്തനങ്ങൾ കളിയെ അടിസ്ഥാനമാക്കിയാണ്, പക്ഷേ അവയും വിദ്യാഭ്യാസപരമാണ്."
+
+#. (itstool) path: description/p
+#: org.kde.gcompris.appdata.xml:12
+msgid ""
+"Below you can find a list of categories with some of the activities "
+"available in that category."
+msgstr ""
+"താഴെ, വിഭാഗങ്ങളുടെ ഒരു പട്ടിക നിങ്ങൾക്ക് കാണാം, ആ വിഭാഗങ്ങളിൽ ചില പ്രവർത്തനങ്ങളും ലഭ്യമാണ്."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:15
+msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+msgstr "കമ്പ്യൂട്ടർ പഠിക്കാം: കീബോർഡ്, മൗസ്, മൗസ് കൊണ്ടുള്ള വ്യത്യസ്ത ചലനങ്ങൾ, ..."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:16
+msgid ""
+"arithmetic: table memory, enumeration, mirror image, balance the scale, "
+"change giving, ..."
+msgstr ""
+"ഗണിതശാസ്ത്രം: പട്ടിക ഓർക്കാം, എണ്ണൽ, കണ്ണാടി ചിത്രം, തൂക്കമൊപ്പിക്കാം, ബാക്കി "
+"കൊടുക്കാം, ..."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:18
+msgid "science: the canal lock, color mixing, gravity concept, ..."
+msgstr "ശാസ്ത്രം: കനാലിൻ്റെ പൂട്ട്, നിറം ചേർക്കാം, ഗുരുത്വം എന്ന ആശയം, ..."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:19
+msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ..."
+msgstr "കളികൾ: ഓർമ്മ, 4 എണ്ണം ബന്ധിപ്പിക്കുക, ടിക് ടാക് ടോ, ഹാനോയിയുടെ ഗോപുരം, ..."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:20
+msgid "reading: reading practice, ..."
+msgstr "വായന: വായന പരിശീലനം, ..."
+
+#. (itstool) path: ul/li
+#: org.kde.gcompris.appdata.xml:21
+msgid ""
+"other: learn to tell time, the braille system, maze, music instruments, ..."
+msgstr "മറ്റുള്ളവ: സമയം പറയാൻ പഠിക്കാം, ബ്രായി ലിപി, കുടുക്കുവഴി, സംഗീതോപകരണങ്ങൾ, ..."
+
+#. (itstool) path: description/p
+#: org.kde.gcompris.appdata.xml:24
+msgid ""
+"Currently GCompris offers in excess of 100 activities and more are being "
+"developed. GCompris is free software, that means that you can adapt it to "
+"your own needs, improve it and, most importantly, share it with children "
+"everywhere."
+msgstr ""
+"ഇപ്പോൾ ജികോംപ്രിയിൽ 100 ലധികം പ്രവർത്തനങ്ങൾ ഉണ്ട്, അതിൽ കൂടുതൽ ഡെവലപ്പ് "
+"ചെയ്തുകൊണ്ടിരിക്കുന്നുമുണ്ട്. ജികോംപ്രി ഒരു സ്വതന്ത്ര സോഫ്റ്റുവെയർ ആണ്, അതായത് നിങ്ങൾക്ക് അതിനെ "
+"നിങ്ങളുടെ ആവശ്യങ്ങൾക്കനുസരിച്ച് രൂപപ്പെടുത്താം, അതിനെ മെച്ചപ്പെടുത്താം, ഏറ്റവും പ്രധാനമായി, "
+"എല്ലായിടങ്ങളിലുള്ള കുട്ടികളുമായി അത് പങ്കുവെയ്ക്കാം."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:31
+msgid "GCompris main menu"
+msgstr "ജികോംപ്രി പ്രധാന മെനു"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:35
+msgid "\"Click on an uppercase letter\" activity"
+msgstr "\"ഒരു വലിയ അക്ഷരത്തിൽ ക്ലിക്ക് ചെയ്യുക\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:39
+msgid "\"Learning Clock\" activity"
+msgstr "\"സമയം പഠിക്കൽ\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:43
+msgid "\"Mixing color of paint\" activity"
+msgstr "\"ചായത്തിൻ്റെ നിറങ്ങൾ കൂട്ടിക്കലർത്താം\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:47
+msgid "\"Colors\" activity"
+msgstr "\"നിറങ്ങൾ\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:51
+msgid "\"Build the same model\" activity"
+msgstr "\"മാതൃക പോലെ നിർമ്മിക്കുക \" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:55
+msgid "\"Count the items\" activity"
+msgstr "\"എത്രയെണ്ണം?\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:59
+msgid "\"The fifteen game\" activity"
+msgstr "\"പതിനഞ്ചിന്റെ കളി\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:63
+msgid "\"Hexagon\" activity"
+msgstr "\"ഷഡ്ഭുജം\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:67
+msgid "\"Balance the scales properly\" activity"
+msgstr "\"തട്ടുകളിലെ തൂക്കമൊപ്പിക്കൂ\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:71
+msgid "\"End of chess game\" activity"
+msgstr "\"ചെസ്സു കളിയുടെ അവസാനം\" പ്രവർത്തനം"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.gcompris.appdata.xml:75
+msgid "\"A sliding-block puzzle game\" activity"
+msgstr "\"വഴി കണ്ടെത്തൽ\" പ്രവർത്തനം"
