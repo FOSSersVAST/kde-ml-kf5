@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-21 01:56+0000\n"
+"POT-Creation-Date: 2019-04-13 01:40+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -32,12 +32,12 @@ msgctxt "Comment"
 msgid "Opens a terminal at the current folder"
 msgstr ""
 
-#: desktop/konsole.notifyrc:3
+#: desktop/konsole.notifyrc:4
 msgctxt "Comment"
 msgid "Konsole"
 msgstr "കണ്‍സോള്‍"
 
-#: desktop/konsole.notifyrc:95
+#: desktop/konsole.notifyrc:96
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -45,7 +45,7 @@ msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "കാണാവുന്നൊരു സെഷനില്‍ മണിനാദം"
 
-#: desktop/konsole.notifyrc:128
+#: desktop/konsole.notifyrc:130
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Bell emitted within a visible session"
@@ -53,7 +53,7 @@ msgctxt "Comment"
 msgid "Bell emitted within a focused session"
 msgstr "കാണാവുന്നൊരു സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:164
+#: desktop/konsole.notifyrc:167
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Non-Visible Session"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "കാണാത്ത സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:197
+#: desktop/konsole.notifyrc:201
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Bell emitted within a non-visible session"
@@ -69,7 +69,7 @@ msgctxt "Comment"
 msgid "Bell emitted within a non-focused session"
 msgstr "കാണാത്ത സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:234
+#: desktop/konsole.notifyrc:239
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Activity in Monitored Session"
@@ -77,7 +77,7 @@ msgctxt "Name"
 msgid "Activity in Non-Focused Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:267
+#: desktop/konsole.notifyrc:273
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Activity detected in a monitored session"
@@ -85,17 +85,17 @@ msgctxt "Comment"
 msgid "Activity detected in a non-focused monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:303
+#: desktop/konsole.notifyrc:310
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:383
+#: desktop/konsole.notifyrc:390
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:470
+#: desktop/konsole.notifyrc:477
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Silence in Monitored Session"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "Silence in Non-Focused Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:503
+#: desktop/konsole.notifyrc:511
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Silence detected in a monitored session"
@@ -111,22 +111,22 @@ msgctxt "Comment"
 msgid "Silence detected in a non-focused monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:539
+#: desktop/konsole.notifyrc:548
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:619
+#: desktop/konsole.notifyrc:628
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:706
+#: desktop/konsole.notifyrc:715
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"
 
-#: desktop/konsole.notifyrc:789
+#: desktop/konsole.notifyrc:798
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"
@@ -136,7 +136,7 @@ msgctxt "Name"
 msgid "Terminal Emulator"
 msgstr "ടെര്‍മിനല്‍ എമുലേറ്റര്‍"
 
-#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:193
+#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:194
 #: desktop/terminalemulator.desktop:98
 #, fuzzy
 #| msgctxt "Name"
@@ -161,17 +161,17 @@ msgctxt "Comment"
 msgid "Run within Konsole"
 msgstr "കണ്‍സോള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
 
-#: desktop/org.kde.konsole.desktop:14
+#: desktop/org.kde.konsole.desktop:15
 msgctxt "Name"
 msgid "Konsole"
 msgstr "കണ്‍സോള്‍"
 
-#: desktop/org.kde.konsole.desktop:107
+#: desktop/org.kde.konsole.desktop:108
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "ടെര്‍മിനല്‍"
 
-#: desktop/org.kde.konsole.desktop:237
+#: desktop/org.kde.konsole.desktop:238
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "New Window"
@@ -179,7 +179,7 @@ msgctxt "Name"
 msgid "Open a New Window"
 msgstr "പുതിയ ജാലകം"
 
-#: desktop/org.kde.konsole.desktop:288
+#: desktop/org.kde.konsole.desktop:289
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "New Window"

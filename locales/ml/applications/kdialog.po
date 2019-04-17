@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:37+0200\n"
+"POT-Creation-Date: 2019-01-13 02:49+0100\n"
 "PO-Revision-Date: 2008-10-22 00:33+0530\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -90,196 +90,208 @@ msgstr "ഡവിറ്റ് അലെമയേഹു"
 msgid "Kai Uwe Broulik"
 msgstr ""
 
-#: kdialog.cpp:281
+#: kdialog.cpp:280
 #, kde-format
 msgid "Question message box with yes/no buttons"
 msgstr "അതെ/അല്ല ബട്ടനുകളോടു് കൂടിയ ചോദ്യ ചതുരം"
 
-#: kdialog.cpp:282
+#: kdialog.cpp:281
 #, kde-format
 msgid "Question message box with yes/no/cancel buttons"
 msgstr "അതെ/അല്ല/റദ്ദാക്കുക ബട്ടനുകളോടു് കൂടിയ ചോദ്യ ചതുരം"
 
-#: kdialog.cpp:283
+#: kdialog.cpp:282
 #, kde-format
 msgid "Warning message box with yes/no buttons"
 msgstr "അതെ/അല്ല ബട്ടനുകളോടു് കൂടിയ മുന്നറിയിപ്പു് ചതുരം"
 
-#: kdialog.cpp:284
+#: kdialog.cpp:283
 #, kde-format
 msgid "Warning message box with continue/cancel buttons"
 msgstr "തുടരുക/റദ്ദാക്കുക ബട്ടനുകളോടു് കൂടിയ മുന്നറിയിപ്പു് ചതുരം"
 
-#: kdialog.cpp:285
+#: kdialog.cpp:284
 #, kde-format
 msgid "Warning message box with yes/no/cancel buttons"
 msgstr "ബട്ടനുകളോടു് കൂടിയ അതെ/അല്ല/റദ്ദാക്കുക മുന്നറിയിപ്പു് ചതുരം"
 
-#: kdialog.cpp:287
+#: kdialog.cpp:286
 #, kde-format
 msgid "Use text as Yes button label"
 msgstr ""
 
-#: kdialog.cpp:288
+#: kdialog.cpp:287
 #, kde-format
 msgid "Use text as No button label"
 msgstr ""
 
-#: kdialog.cpp:289
+#: kdialog.cpp:288
 #, kde-format
 msgid "Use text as Cancel button label"
 msgstr ""
 
-#: kdialog.cpp:290
+#: kdialog.cpp:289
 #, kde-format
 msgid "Use text as Continue button label"
 msgstr ""
 
-#: kdialog.cpp:291
+#: kdialog.cpp:290
 #, kde-format
 msgid "'Sorry' message box"
 msgstr "'ക്ഷമിക്കുക' എന്ന സന്ദേശ ചതുരം"
 
-#: kdialog.cpp:292
+#: kdialog.cpp:291
 #, kde-format
 msgid "'Sorry' message box with expandable Details field"
 msgstr ""
 
-#: kdialog.cpp:293
+#: kdialog.cpp:292
 #, kde-format
 msgid "'Error' message box"
 msgstr "'തെറ്റ്' എന്ന സന്ദേശ ചതുരം"
 
-#: kdialog.cpp:294
+#: kdialog.cpp:293
 #, kde-format
 msgid "'Error' message box with expandable Details field"
 msgstr ""
 
-#: kdialog.cpp:295
+#: kdialog.cpp:294
 #, kde-format
 msgid "Message Box dialog"
 msgstr "സന്ദേശ ചതുരത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:296
+#: kdialog.cpp:295
 #, kde-format
 msgid "Input Box dialog"
 msgstr "ഇന്‍പുട്ട് ചതുരത്തിനുള്ള ഡയലോഗ്"
 
+#: kdialog.cpp:296
+#, fuzzy, kde-format
+#| msgid "Message Box dialog"
+msgid "Image Box dialog"
+msgstr "സന്ദേശ ചതുരത്തിനുള്ള ഡയലോഗ്"
+
 #: kdialog.cpp:297
+#, fuzzy, kde-format
+#| msgid "Message Box dialog"
+msgid "Image Box Input dialog"
+msgstr "സന്ദേശ ചതുരത്തിനുള്ള ഡയലോഗ്"
+
+#: kdialog.cpp:298
 #, kde-format
 msgid "Password dialog"
 msgstr "അടയാളവാക്കിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:298
+#: kdialog.cpp:299
 #, fuzzy, kde-format
 #| msgid "Password dialog"
 msgid "New Password dialog"
 msgstr "അടയാളവാക്കിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:299
+#: kdialog.cpp:300
 #, kde-format
 msgid "Text Box dialog"
 msgstr "പദാവലികളുടെ ചതുരത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:300
+#: kdialog.cpp:301
 #, kde-format
 msgid "Text Input Box dialog"
 msgstr "പദാവലികളുടെ ഇന്‍പുട്ട് ചതുരത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:301
+#: kdialog.cpp:302
 #, kde-format
 msgid "ComboBox dialog"
 msgstr "കോംബോ ചതുരത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:302
+#: kdialog.cpp:303
 #, kde-format
 msgid "Menu dialog"
 msgstr "വിഭവസൂചികയ്ക്കുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:303
+#: kdialog.cpp:304
 #, kde-format
 msgid "Check List dialog"
 msgstr "ചെക്ക് ലിസ്റ്റിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:304
+#: kdialog.cpp:305
 #, kde-format
 msgid "Radio List dialog"
 msgstr "റേഡിയൊ ലിസ്റ്റിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:305
+#: kdialog.cpp:306
 #, kde-format
 msgid "Passive Popup"
 msgstr "പാസ്സിവ് പോപ്പ് അപ്പ്"
 
-#: kdialog.cpp:306
+#: kdialog.cpp:307
 #, fuzzy, kde-format
 #| msgid "Passive Popup"
-msgid "Passive popup icon"
+msgid "Popup icon"
 msgstr "പാസ്സിവ് പോപ്പ് അപ്പ്"
 
-#: kdialog.cpp:307
+#: kdialog.cpp:308
 #, fuzzy, kde-format
 #| msgid "File dialog to open an existing file"
 msgid "File dialog to open an existing file (arguments [startDir] [filter])"
 msgstr "നിലവിലുള്ള ഫയല്‍ തുറക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
-#: kdialog.cpp:308
+#: kdialog.cpp:309
 #, fuzzy, kde-format
 #| msgid "File dialog to save a file"
 msgid "File dialog to save a file (arguments [startDir] [filter])"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
-#: kdialog.cpp:309
+#: kdialog.cpp:310
 #, fuzzy, kde-format
 #| msgid "File dialog to select an existing directory"
 msgid "File dialog to select an existing directory (arguments [startDir])"
 msgstr "നിലവിലുള്ള തട്ടു് തെരഞ്ഞെടുക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
-#: kdialog.cpp:310
+#: kdialog.cpp:311
 #, fuzzy, kde-format
 #| msgid "File dialog to open an existing file"
 msgid "File dialog to open an existing URL (arguments [startDir] [filter])"
 msgstr "നിലവിലുള്ള ഫയല്‍ തുറക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
-#: kdialog.cpp:311
+#: kdialog.cpp:312
 #, fuzzy, kde-format
 #| msgid "File dialog to save a file"
 msgid "File dialog to save a URL (arguments [startDir] [filter])"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
-#: kdialog.cpp:312
+#: kdialog.cpp:313
 #, kde-format
 msgid "Icon chooser dialog (arguments [group] [context])"
 msgstr ""
 
-#: kdialog.cpp:313 kdialog_progress_helper.cpp:54
+#: kdialog.cpp:314 kdialog_progress_helper.cpp:54
 #, kde-format
 msgid "Progress bar dialog, returns a D-Bus reference for communication"
 msgstr ""
 "പുരോഗതി കാണിയ്ക്കുന്ന പട്ടയ്ക്കുള്ള ഡയലോഗ്, ആശയവിനിമയത്തിനായി ഒരു ഡി-ബസ് റെഫറെന്‍സ് തിരിച്ചു് "
 "തരുന്നു"
 
-#: kdialog.cpp:314
+#: kdialog.cpp:315
 #, kde-format
 msgid "Color dialog to select a color"
 msgstr "ഒരു നിറം തെരഞ്ഞെടുക്കുവാനുള്ള നിറത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:315
+#: kdialog.cpp:316
 #, kde-format
 msgid "Allow --getcolor to specify output format"
 msgstr ""
 
-#: kdialog.cpp:317 kdialog_progress_helper.cpp:55
+#: kdialog.cpp:318 kdialog_progress_helper.cpp:55
 #, kde-format
 msgid "Dialog title"
 msgstr "ഡയലോഗിന്റെ തലക്കെട്ടു്"
 
-#: kdialog.cpp:318
+#: kdialog.cpp:319
 #, kde-format
 msgid "Default entry to use for combobox, menu and color"
 msgstr "കോംബോ ചതുരം, വിഭവസൂചിക, നിറം എന്നിവയ്ക്കു് സ്വാഭാവികമായിട്ടു് ഉപയോഗിക്കേണ്ടതു്"
 
-#: kdialog.cpp:319
+#: kdialog.cpp:320
 #, kde-format
 msgid ""
 "Allows the --getopenurl and --getopenfilename options to return multiple "
@@ -288,7 +300,7 @@ msgstr ""
 "--getopenurl-ഉം  --getopenfilename-ഉമെന്ന ഐച്ഛികങ്ങളെ ഒന്നിലേറെ ഫയലുകള്‍ "
 "തിരിച്ചയയ്ക്കാന്‍ അനുവദിയ്ക്കുന്നു"
 
-#: kdialog.cpp:320
+#: kdialog.cpp:321
 #, kde-format
 msgid ""
 "Return list items on separate lines (for checklist option and file open with "
@@ -297,12 +309,12 @@ msgstr ""
 "ലിസ്റ്റിലെ ഇനങ്ങളെ വെവ്വേറെ വരികളില്‍ തിരിച്ചയയ്ക്കുക (ചെക്ക്ലിസ്റ്റ് ഐച്ഛികത്തിനും  --"
 "multiple-ഉമായി ഫയല്‍ തുറക്കാനും)"
 
-#: kdialog.cpp:321
+#: kdialog.cpp:322
 #, kde-format
 msgid "Outputs the winId of each dialog"
 msgstr "ഓരോ ഡയലോഗിന്റെയും winId ഔട്ട്പുട്ട് നല്‍കുന്നു"
 
-#: kdialog.cpp:322
+#: kdialog.cpp:323
 #, kde-format
 msgid ""
 "Config file and option name for saving the \"do-not-show/ask-again\" state"
@@ -310,79 +322,79 @@ msgstr ""
 "ക്രമീകരണ ഫയലും \"കാണിക്കരുത്/വീണ്ടും ചോദിയ്ക്കുക\" എന്ന അവസ്ഥ സൂക്ഷിയ്ക്കുവാനുള്ള ഐച്ഛികത്തിന്റെ "
 "പേരു്"
 
-#: kdialog.cpp:323
+#: kdialog.cpp:324
 #, fuzzy, kde-format
 #| msgid "Color dialog to select a color"
 msgid "Slider dialog box, returns selected value"
 msgstr "ഒരു നിറം തെരഞ്ഞെടുക്കുവാനുള്ള നിറത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:324
+#: kdialog.cpp:325
 #, fuzzy, kde-format
 #| msgid "Color dialog to select a color"
 msgid "Calendar dialog box, returns selected date"
 msgstr "ഒരു നിറം തെരഞ്ഞെടുക്കുവാനുള്ള നിറത്തിനുള്ള ഡയലോഗ്"
 
-#: kdialog.cpp:327
+#: kdialog.cpp:328
 #, kde-format
 msgid "Makes the dialog transient for an X app specified by winid"
 msgstr "ഡയലോഗിനെ winid വഴി വ്യക്തമാക്കുന്ന ഒരു X app-ഇനു ട്രാന്‍സിയെന്റ് (trasient) ആക്കുന്നു"
 
-#: kdialog.cpp:328
+#: kdialog.cpp:329
 #, kde-format
 msgid "A synonym for --attach"
 msgstr ""
 
-#: kdialog.cpp:329
+#: kdialog.cpp:330
 #, kde-format
 msgid "Dialog geometry: [=][<width>{xX}<height>][{+-}<xoffset>{+-}<yoffset>]"
 msgstr ""
 
-#: kdialog.cpp:331 kdialog_progress_helper.cpp:56
+#: kdialog.cpp:332 kdialog_progress_helper.cpp:56
 #, kde-format
 msgid "Arguments - depending on main option"
 msgstr "പ്രധാന ഐച്ഛികത്തിനനുസരിച്ചുള്ള ആര്‍ഗ്യുമെന്റുകള്‍"
 
-#: kdialog.cpp:630
+#: kdialog.cpp:654
 #, kde-format
 msgid "Syntax: --combobox <text> item [item] ..."
 msgstr ""
 
-#: kdialog.cpp:652
+#: kdialog.cpp:676
 #, kde-format
 msgid "Syntax: --menu text [tag item] [tag item] ..."
 msgstr ""
 
-#: kdialog.cpp:675
+#: kdialog.cpp:699
 #, kde-format
 msgid "Syntax: --checklist text [tag item on/off] [tag item on/off]"
 msgstr ""
 
-#: kdialog.cpp:693
+#: kdialog.cpp:717
 #, kde-format
 msgid "Syntax: --radiolist text [tag item on/off] ..."
 msgstr ""
 
-#: kdialog.cpp:724
+#: kdialog.cpp:748
 #, fuzzy, kde-format
 #| msgid "Open"
 msgctxt "@title:window"
 msgid "Open"
 msgstr "തുറക്കുക"
 
-#: kdialog.cpp:777
+#: kdialog.cpp:801
 #, fuzzy, kde-format
 #| msgid "Save As"
 msgctxt "@title:window"
 msgid "Save As"
 msgstr "പേരു് മാറ്റി സൂക്ഷിയ്ക്കുക"
 
-#: kdialog.cpp:811
+#: kdialog.cpp:835
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Directory"
 msgstr ""
 
-#: kdialog.cpp:925
+#: kdialog.cpp:949
 #, fuzzy, kde-format
 #| msgid "Choose Color"
 msgctxt "@title:window"
@@ -394,7 +406,7 @@ msgstr "നിറം തെരഞ്ഞെടുക്കുക"
 msgid "Cancel"
 msgstr ""
 
-#: widgets.cpp:115
+#: widgets.cpp:116 widgets.cpp:148 widgets.cpp:160
 #, kde-format
 msgid "kdialog: could not open file %1"
 msgstr "കെ-ഡയലോഗ്: ഫയല്‍ %1 തുറക്കുവാന്‍ കഴിഞ്ഞില്ല"

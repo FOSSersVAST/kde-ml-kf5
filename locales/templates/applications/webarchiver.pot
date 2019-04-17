@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:37+0200\n"
+"POT-Creation-Date: 2019-01-07 02:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,29 +17,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: archivedialog.cpp:164
+#: archivedialog.cpp:161
 #, kde-format
 msgctxt "@title:window"
 msgid "Web Archiver"
 msgstr ""
 
-#: archivedialog.cpp:174
+#: archivedialog.cpp:171
 #, kde-format
 msgid "Status"
 msgstr ""
 
-#: archivedialog.cpp:175
+#: archivedialog.cpp:172
 #, kde-format
 msgid "Url"
 msgstr ""
 
-#: archivedialog.cpp:244
+#: archivedialog.cpp:241
 #, kde-format
 msgctxt "@title:window"
 msgid "Unable to Open Web-Archive"
 msgstr ""
 
-#: archivedialog.cpp:245
+#: archivedialog.cpp:242
 #, kde-format
 msgid ""
 "Unable to open \n"
@@ -47,22 +47,22 @@ msgid ""
 " for writing."
 msgstr ""
 
-#: archivedialog.cpp:376
+#: archivedialog.cpp:373
 #, kde-format
 msgid "Downloading"
 msgstr ""
 
-#: archivedialog.cpp:398
+#: archivedialog.cpp:395
 #, kde-format
 msgid "Error"
 msgstr ""
 
-#: archivedialog.cpp:398
+#: archivedialog.cpp:395
 #, kde-format
 msgid "OK"
 msgstr ""
 
-#: archivedialog.cpp:421
+#: archivedialog.cpp:418
 #, kde-format
 msgid "I/O error occurred while writing to web archive file %1."
 msgstr ""
@@ -109,33 +109,33 @@ msgstr ""
 msgid "2"
 msgstr ""
 
-#: plugin_webarchiver.cpp:61
+#: plugin_webarchiver.cpp:60
 #, kde-format
 msgid "Archive &Web Page..."
 msgstr ""
 
-#: plugin_webarchiver.cpp:81
+#: plugin_webarchiver.cpp:80
 #, kde-format
 msgid "Untitled"
 msgstr ""
 
-#: plugin_webarchiver.cpp:99
+#: plugin_webarchiver.cpp:98
 #, kde-format
 msgid "*.war *.tgz|Web Archives"
 msgstr ""
 
-#: plugin_webarchiver.cpp:100
+#: plugin_webarchiver.cpp:99
 #, kde-format
 msgid "Save Page as Web-Archive"
 msgstr ""
 
-#: plugin_webarchiver.cpp:107
+#: plugin_webarchiver.cpp:106
 #, kde-format
 msgctxt "@title:window"
 msgid "Invalid URL"
 msgstr ""
 
-#: plugin_webarchiver.cpp:108
+#: plugin_webarchiver.cpp:107
 #, kde-format
 msgid ""
 "The URL\n"
@@ -143,13 +143,13 @@ msgid ""
 "is not valid."
 msgstr ""
 
-#: plugin_webarchiver.cpp:121
+#: plugin_webarchiver.cpp:120
 #, kde-format
 msgctxt "@title:window"
 msgid "File Exists"
 msgstr ""
 
-#: plugin_webarchiver.cpp:122
+#: plugin_webarchiver.cpp:121
 #, kde-format
 msgid ""
 "Do you really want to overwrite:\n"

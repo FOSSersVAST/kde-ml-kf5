@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfind\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-23 03:45+0200\n"
+"POT-Creation-Date: 2018-11-15 03:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -528,7 +528,7 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kquery.cpp:601
+#: kquery.cpp:600
 #, kde-format
 msgctxt "@title:window"
 msgid "Error while using locate"

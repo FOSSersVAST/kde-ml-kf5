@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 08:58+0200\n"
+"POT-Creation-Date: 2019-04-01 02:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -32,68 +32,68 @@ msgstr ""
 msgid "Preview"
 msgstr ""
 
-#: previewwidget.cpp:62
+#: previewwidget.cpp:63
 #, kde-format
 msgid "Lock Current Document"
 msgstr ""
 
-#: previewwidget.cpp:63
+#: previewwidget.cpp:64
 #, kde-format
 msgid "Lock preview to current document"
 msgstr ""
 
-#: previewwidget.cpp:64
+#: previewwidget.cpp:65
 #, kde-format
 msgid "Unlock Current View"
 msgstr ""
 
-#: previewwidget.cpp:64
+#: previewwidget.cpp:65
 #, kde-format
 msgid "Unlock current view"
 msgstr ""
 
-#: previewwidget.cpp:71
+#: previewwidget.cpp:72
 #, kde-format
 msgid "Automatically Update Preview"
 msgstr ""
 
-#: previewwidget.cpp:72
+#: previewwidget.cpp:73
 #, kde-format
 msgid "Enable automatic updates of the preview to the current document content"
 msgstr ""
 
-#: previewwidget.cpp:73
+#: previewwidget.cpp:74
 #, kde-format
 msgid "Manually Update Preview"
 msgstr ""
 
-#: previewwidget.cpp:73
+#: previewwidget.cpp:74
 #, kde-format
 msgid ""
 "Disable automatic updates of the preview to the current document content"
 msgstr ""
 
-#: previewwidget.cpp:78
+#: previewwidget.cpp:79
 #, kde-format
 msgid "Update Preview"
 msgstr ""
 
-#: previewwidget.cpp:79
+#: previewwidget.cpp:80
 #, kde-format
 msgid "Update the preview to the current document content"
 msgstr ""
 
-#: previewwidget.cpp:87
+#: previewwidget.cpp:88
 #, kde-format
 msgid "View"
 msgstr ""
 
-#: previewwidget.cpp:107
+#: previewwidget.cpp:113
 #, kde-format
 msgid "No preview available."
 msgstr ""
 
-#: previewwidget.cpp:202
+#: previewwidget.cpp:242
 #, kde-format
 msgid "About %1"
 msgstr ""

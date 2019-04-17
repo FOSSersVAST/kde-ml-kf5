@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-02-14 03:06+0100\n"
+"POT-Creation-Date: 2018-11-08 03:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -60,6 +60,6 @@ msgid "Saving output"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.konsole.appdata.xml:26
+#: org.kde.konsole.appdata.xml:27
 msgid "Konsole being used as a terminal emulator"
 msgstr ""

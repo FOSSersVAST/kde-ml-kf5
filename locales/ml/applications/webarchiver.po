@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: webarchiver trunk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:37+0200\n"
+"POT-Creation-Date: 2019-01-07 02:56+0100\n"
 "PO-Revision-Date: 2010-07-02 19:38+0530\n"
 "Last-Translator: Raru Rv <raru.rv@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -17,31 +17,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: archivedialog.cpp:164
+#: archivedialog.cpp:161
 #, fuzzy, kde-format
 #| msgid "Web Archiver"
 msgctxt "@title:window"
 msgid "Web Archiver"
 msgstr "വെബ് ശേഖരണം"
 
-#: archivedialog.cpp:174
+#: archivedialog.cpp:171
 #, kde-format
 msgid "Status"
 msgstr "എന്തായി"
 
-#: archivedialog.cpp:175
+#: archivedialog.cpp:172
 #, kde-format
 msgid "Url"
 msgstr "യുആര്‍എല്‍"
 
-#: archivedialog.cpp:244
+#: archivedialog.cpp:241
 #, fuzzy, kde-format
 #| msgid "Unable to Open Web-Archive"
 msgctxt "@title:window"
 msgid "Unable to Open Web-Archive"
 msgstr "വെബ് ശേഖരണം തുറക്കാന്‍ കഴിയുന്നില്ല"
 
-#: archivedialog.cpp:245
+#: archivedialog.cpp:242
 #, kde-format
 msgid ""
 "Unable to open \n"
@@ -52,22 +52,22 @@ msgstr ""
 " %1 \n"
 " തുറക്കാന്‍ കഴിയുന്നില്ല."
 
-#: archivedialog.cpp:376
+#: archivedialog.cpp:373
 #, kde-format
 msgid "Downloading"
 msgstr "ഇറക്കിക്കൊണ്ടിരിയ്ക്കുന്നു"
 
-#: archivedialog.cpp:398
+#: archivedialog.cpp:395
 #, kde-format
 msgid "Error"
 msgstr "തെറ്റ്"
 
-#: archivedialog.cpp:398
+#: archivedialog.cpp:395
 #, kde-format
 msgid "OK"
 msgstr ""
 
-#: archivedialog.cpp:421
+#: archivedialog.cpp:418
 #, kde-format
 msgid "I/O error occurred while writing to web archive file %1."
 msgstr "%1 എന്ന വെബ് ശേഖരണത്തിലേക്ക് എഴുതുന്ന സമയത്തു് ഐ/ഒയില്‍ തെറ്റ് പറ്റി."
@@ -114,34 +114,34 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
-#: plugin_webarchiver.cpp:61
+#: plugin_webarchiver.cpp:60
 #, kde-format
 msgid "Archive &Web Page..."
 msgstr "&വെബ് താള്‍ ശേഖരിയ്ക്കുക..."
 
-#: plugin_webarchiver.cpp:81
+#: plugin_webarchiver.cpp:80
 #, kde-format
 msgid "Untitled"
 msgstr "പേരിടാത്തതു്"
 
-#: plugin_webarchiver.cpp:99
+#: plugin_webarchiver.cpp:98
 #, kde-format
 msgid "*.war *.tgz|Web Archives"
 msgstr "*.war *.tgz|വെബ് ശേഖരങ്ങള്‍"
 
-#: plugin_webarchiver.cpp:100
+#: plugin_webarchiver.cpp:99
 #, kde-format
 msgid "Save Page as Web-Archive"
 msgstr "ഈ താള്‍ വെബ് ശേഖരമായി സൂക്ഷിക്കുക"
 
-#: plugin_webarchiver.cpp:107
+#: plugin_webarchiver.cpp:106
 #, fuzzy, kde-format
 #| msgid "Invalid URL"
 msgctxt "@title:window"
 msgid "Invalid URL"
 msgstr "അസാധുവായ യുആര്‍എല്‍"
 
-#: plugin_webarchiver.cpp:108
+#: plugin_webarchiver.cpp:107
 #, kde-format
 msgid ""
 "The URL\n"
@@ -152,14 +152,14 @@ msgstr ""
 "യുആര്‍എല്‍\n"
 "സാധുവായതല്ല."
 
-#: plugin_webarchiver.cpp:121
+#: plugin_webarchiver.cpp:120
 #, fuzzy, kde-format
 #| msgid "File Exists"
 msgctxt "@title:window"
 msgid "File Exists"
 msgstr "ഫയല്‍ നിലവിലുണ്ടു്"
 
-#: plugin_webarchiver.cpp:122
+#: plugin_webarchiver.cpp:121
 #, kde-format
 msgid ""
 "Do you really want to overwrite:\n"

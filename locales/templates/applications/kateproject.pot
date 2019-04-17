@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-20 03:31+0200\n"
+"POT-Creation-Date: 2019-03-17 02:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,6 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: kateproject.cpp:338
 #, kde-format
@@ -55,7 +56,7 @@ msgstr ""
 msgid "&Mercurial"
 msgstr ""
 
-#: kateprojectconfigpage.cpp:65 kateprojectpluginview.cpp:147
+#: kateprojectconfigpage.cpp:65 kateprojectpluginview.cpp:148
 #, kde-format
 msgid "Projects"
 msgstr ""
@@ -91,42 +92,53 @@ msgstr ""
 msgid "Notes"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:38
+#: kateprojectinfoviewcodeanalysis.cpp:39
 #, kde-format
 msgid "Start Analysis..."
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:51
+#: kateprojectinfoviewcodeanalysis.cpp:52
 #: kateprojectinfoviewindex.cpp:43
 #, kde-format
 msgid "File"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:51
+#: kateprojectinfoviewcodeanalysis.cpp:52
 #: kateprojectinfoviewindex.cpp:43
 #, kde-format
 msgid "Line"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:51
+#: kateprojectinfoviewcodeanalysis.cpp:52
 #, kde-format
 msgid "Severity"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:51
+#: kateprojectinfoviewcodeanalysis.cpp:52
 #, kde-format
 msgid "Message"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:219
+#: kateprojectinfoviewcodeanalysis.cpp:112
 #, kde-format
-msgid "Analysis finished."
+msgid ""
+"%1<br/><br/>The tool will be run on all project files which match this list "
+"of file extensions:<br/><br/><b>%2</b>"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:224
+#: kateprojectinfoviewcodeanalysis.cpp:247
 #, kde-format
-msgid "Analysis failed!"
-msgstr ""
+msgid "Analysis on %1 file finished."
+msgid_plural "Analysis on %1 files finished."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kateprojectinfoviewcodeanalysis.cpp:252
+#, kde-format
+msgid "Analysis on %1 file failed with exit code %2."
+msgid_plural "Analysis on %1 files failed with exit code %2."
+msgstr[0] ""
+msgstr[1] ""
 
 #: kateprojectinfoviewindex.cpp:43
 #, kde-format
@@ -148,37 +160,47 @@ msgstr ""
 msgid "The index could not be created. Please install 'ctags'."
 msgstr ""
 
-#: kateprojectpluginview.cpp:55
+#: kateprojectpluginview.cpp:56
 #, kde-format
 msgid "Kate Project Manager"
 msgstr ""
 
-#: kateprojectpluginview.cpp:94
+#: kateprojectpluginview.cpp:95
 #, kde-format
 msgid "Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:97 kateprojectpluginview.cpp:520
+#: kateprojectpluginview.cpp:98 kateprojectpluginview.cpp:523
 #, kde-format
 msgid "Lookup: %1"
 msgstr ""
 
-#: kateprojectpluginview.cpp:148
+#: kateprojectpluginview.cpp:149
 #, kde-format
 msgid "Current Project"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:72
+#: kateprojecttreeviewcontextmenu.cpp:86
 #, kde-format
-msgid "Copy Filename"
+msgid "Copy File Path"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:78
+#: kateprojecttreeviewcontextmenu.cpp:92
 #, kde-format
 msgid "Open With"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:108
+#: kateprojecttreeviewcontextmenu.cpp:110
+#, kde-format
+msgid "&Open Containing Folder"
+msgstr ""
+
+#: kateprojecttreeviewcontextmenu.cpp:115
+#, kde-format
+msgid "Properties"
+msgstr ""
+
+#: kateprojecttreeviewcontextmenu.cpp:125
 #, kde-format
 msgid "Git:"
 msgstr ""

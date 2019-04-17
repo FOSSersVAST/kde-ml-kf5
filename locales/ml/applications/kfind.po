@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-23 03:45+0200\n"
+"POT-Creation-Date: 2018-11-15 03:43+0100\n"
 "PO-Revision-Date: 2008-12-05 02:28+0730\n"
 "Last-Translator: Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -556,7 +556,7 @@ msgid_plural "years"
 msgstr[0] "വര്‍ഷങ്ങള്‍"
 msgstr[1] "വര്‍ഷങ്ങള്‍"
 
-#: kquery.cpp:601
+#: kquery.cpp:600
 #, fuzzy, kde-format
 #| msgid "Error while using locate"
 msgctxt "@title:window"
