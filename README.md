@@ -18,6 +18,10 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   export REPO_ROOT=$PWD
   export PACKAGE=''
   ```
+* Make folders if haven't done already :
+  ```
+  mkdir $REPO_ROOT/locales/ $REPO_ROOT/locales/templates $REPO_ROOT/locales/ml
+  ```
 * Make a branch for the package :
   ```
   git checkout -b $PACKAGE
