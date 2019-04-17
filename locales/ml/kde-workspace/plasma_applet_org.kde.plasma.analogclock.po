@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-01-21 03:17+0100\n"
 "PO-Revision-Date: 2008-11-23 19:08-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -24,13 +24,19 @@ msgstr ""
 msgid "Appearance"
 msgstr "കാഴ്ച"
 
-#: contents/ui/configGeneral.qml:39
+#: contents/ui/configGeneral.qml:35
 #, fuzzy, kde-format
 #| msgid "Show &seconds hand"
 msgid "Show seconds hand"
 msgstr "&സെക്കന്റ് സൂചി കാണിയ്ക്കുക "
 
-#: contents/ui/configGeneral.qml:43
+#: contents/ui/configGeneral.qml:36
+#, fuzzy, kde-format
+#| msgid "General"
+msgid "General:"
+msgstr "പൊതുവായ"
+
+#: contents/ui/configGeneral.qml:40
 #, fuzzy, kde-format
 #| msgid "Show &time zone"
 msgid "Show time zone"
@@ -53,9 +59,6 @@ msgstr "&സമയമേഖല കാണിയ്ക്കുക"
 
 #~ msgid "Show &time zone"
 #~ msgstr "&സമയമേഖല കാണിയ്ക്കുക"
-
-#~ msgid "General"
-#~ msgstr "പൊതുവായ"
 
 #, fuzzy
 #~| msgid "Also show the time as text"

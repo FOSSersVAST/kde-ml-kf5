@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"POT-Creation-Date: 2019-03-24 03:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -81,7 +81,7 @@ msgstr ""
 
 #: emoticonslist.cpp:364
 #, kde-format
-msgid "Enter the name of the new emoticon theme:"
+msgid "Name of new emoticon theme:"
 msgstr ""
 
 #: emoticonslist.cpp:370
@@ -100,112 +100,14 @@ msgstr ""
 msgid "Emoticons Manager"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, cbStrict)
-#: emoticonslist.ui:40
-#, kde-format
-msgid "Require spaces around emoticons"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, btNew)
-#: emoticonslist.ui:47
-#, kde-format
-msgid "Design a new emoticon theme"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, btNew)
-#: emoticonslist.ui:50
-#, kde-format
-msgid ""
-"Start a new theme by assigning it a name. Then use the Add button on the "
-"right to add emoticons to this theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btNew)
-#: emoticonslist.ui:53
-#, kde-format
-msgid "New Theme"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, btRemoveTheme)
-#: emoticonslist.ui:60
-#, kde-format
-msgid "Remove the selected theme from your disk"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, btRemoveTheme)
-#: emoticonslist.ui:63
-#, kde-format
-msgid "This will remove the selected theme from your disk."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btRemoveTheme)
-#: emoticonslist.ui:66
-#, kde-format
-msgid "Remove Theme"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, btAdd)
-#: emoticonslist.ui:86
-#, kde-format
-msgid "Create a new emoticon"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, btAdd)
-#: emoticonslist.ui:89
-#, kde-format
-msgid "Create a new emoticon by assigning it an icon and some text"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btAdd)
-#: emoticonslist.ui:92
-#, kde-format
-msgid "Add..."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, btEdit)
-#: emoticonslist.ui:99
-#, kde-format
-msgid "Modify the selected emoticon icon or text "
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, btEdit)
-#: emoticonslist.ui:102
-#, kde-format
-msgid "Edit the selected emoticon to change its icon or its text"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btEdit)
-#: emoticonslist.ui:105
-#, kde-format
-msgid "Edit..."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, btRemoveEmoticon)
-#: emoticonslist.ui:112
-#, kde-format
-msgid "Remove the selected emoticon"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, btRemoveEmoticon)
-#: emoticonslist.ui:115
-#, kde-format
-msgid "Remove the selected emoticon from your disk"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btRemoveEmoticon)
-#: emoticonslist.ui:118
-#, kde-format
-msgid "Remove"
-msgstr ""
-
 #. i18n: ectx: property (toolTip), widget (QPushButton, btInstall)
-#: emoticonslist.ui:138
+#: emoticonslist.ui:26
 #, kde-format
 msgid "Install a theme archive file you already have locally"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btInstall)
-#: emoticonslist.ui:141
+#: emoticonslist.ui:29
 #, kde-format
 msgid ""
 "If you already have an emoticon theme archive locally, this button will "
@@ -213,29 +115,97 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, btInstall)
-#: emoticonslist.ui:144
+#: emoticonslist.ui:32
 #, kde-format
 msgid "Install from File..."
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QPushButton, btGetNew)
-#: emoticonslist.ui:151
+#. i18n: ectx: property (toolTip), widget (QPushButton, btNew)
+#: emoticonslist.ui:45
 #, kde-format
-msgid "Get new icon themes from the Internet"
+msgid "Create New Theme..."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btNew)
+#: emoticonslist.ui:48
+#, kde-format
+msgid ""
+"Create a new theme by assigning it a name. Then use the Add button on the "
+"right to add emoticons to this theme."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btRemoveTheme)
+#: emoticonslist.ui:99
+#, kde-format
+msgid "Remove Theme"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btRemoveTheme)
+#: emoticonslist.ui:102
+#, kde-format
+msgid "This will remove the selected theme from your disk."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btGetNew)
+#: emoticonslist.ui:115
+#, kde-format
+msgid "Get new emoticon icon themes from the Internet"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btGetNew)
-#: emoticonslist.ui:154
+#: emoticonslist.ui:118
 #, kde-format
 msgid ""
 "You need to be connected to the Internet to use this action. A dialog will "
-"display a list of emoticon themes from the http://www.kde-look.org website. "
+"display a list of emoticon themes from the https://store.kde.org website. "
 "Clicking the Install button associated with a theme will install this theme "
 "locally."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, btGetNew)
-#: emoticonslist.ui:157
+#: emoticonslist.ui:121
 #, kde-format
 msgid "Get New Emoticons..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStrict)
+#: emoticonslist.ui:138
+#, kde-format
+msgid "Require spaces around emoticons"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btAdd)
+#: emoticonslist.ui:161
+#, kde-format
+msgid "Create New Emoticon..."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btAdd)
+#: emoticonslist.ui:164
+#, kde-format
+msgid "Create a new emoticon by assigning it an icon and some text"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btRemoveEmoticon)
+#: emoticonslist.ui:177
+#, kde-format
+msgid "Remove Emoticon"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btRemoveEmoticon)
+#: emoticonslist.ui:180
+#, kde-format
+msgid "Remove the selected emoticon from your disk"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btEdit)
+#: emoticonslist.ui:193
+#, kde-format
+msgid "Edit Emoticon..."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btEdit)
+#: emoticonslist.ui:196
+#, kde-format
+msgid "Edit the selected emoticon to change its icon or its text"
 msgstr ""

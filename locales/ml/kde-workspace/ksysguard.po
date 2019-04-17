@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-28 03:54+0200\n"
+"POT-Creation-Date: 2019-02-15 03:26+0100\n"
 "PO-Revision-Date: 2010-06-23 17:21+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Hide menu bar"
 msgstr ""
 
-#: ksysguard.cpp:179 ksysguard.cpp:570
+#: ksysguard.cpp:179 ksysguard.cpp:571
 #, kde-format
 msgid "System Monitor"
 msgstr "സിസ്റ്റം മോണിറ്റര്‍"
@@ -195,7 +195,7 @@ msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 msgid "Tab &Properties"
 msgstr "കിളിവാതീന്റെ &ഗുണഗണങ്ങള്‍"
 
-#: ksysguard.cpp:385
+#: ksysguard.cpp:386
 #, fuzzy, kde-format
 #| msgid "1 process1"
 #| msgid_plural "%1 processes%1"
@@ -204,13 +204,13 @@ msgid_plural "%1 processes"
 msgstr[0] "1 പ്രക്രിയകള്‍1"
 msgstr[1] " %1 പ്രക്രിയകള്‍ %1"
 
-#: ksysguard.cpp:466
+#: ksysguard.cpp:467
 #, fuzzy, kde-format
 #| msgid "CPU: %1%%1%"
 msgid "CPU: %1%"
 msgstr " സിപിയു: %1%%1%"
 
-#: ksysguard.cpp:466
+#: ksysguard.cpp:467
 #, fuzzy, kde-format
 #| msgctxt "units"
 #| msgid "%1%"
@@ -218,7 +218,7 @@ msgctxt "This is the shorter version of CPU: %1%"
 msgid "%1%"
 msgstr "%1%"
 
-#: ksysguard.cpp:485
+#: ksysguard.cpp:486
 #, fuzzy, kde-format
 #| msgctxt "Arguments are formatted byte sizes (used/total)"
 #| msgid " Memory: %1 / %2 "
@@ -226,7 +226,7 @@ msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Memory: %1 / %2"
 msgstr " മെമ്മറി : %1 / %2 "
 
-#: ksysguard.cpp:487
+#: ksysguard.cpp:488
 #, fuzzy, kde-format
 #| msgctxt "Arguments are formatted byte sizes (used/total)"
 #| msgid " Memory: %1 / %2 "
@@ -236,7 +236,7 @@ msgctxt ""
 msgid "Mem: %1 / %2"
 msgstr " മെമ്മറി : %1 / %2 "
 
-#: ksysguard.cpp:489
+#: ksysguard.cpp:490
 #, kde-format
 msgctxt ""
 "Arguments is formatted byte sizes (used) This should be a shorter version of "
@@ -244,12 +244,12 @@ msgctxt ""
 msgid "Mem: %1"
 msgstr ""
 
-#: ksysguard.cpp:517
+#: ksysguard.cpp:518
 #, kde-format
 msgid " No swap space available "
 msgstr "സ്വാപ്പ് സ്പെയിസ് ലഭ്യമല്ല"
 
-#: ksysguard.cpp:521
+#: ksysguard.cpp:522
 #, fuzzy, kde-format
 #| msgctxt "Arguments are formatted byte sizes (used/total)"
 #| msgid "Swap: %1 / %2Swap: %1%1"
@@ -257,79 +257,79 @@ msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Swap: %1 / %2"
 msgstr " സ്വാപ്പ്: %1 / %2സ്വാപ്പ്: %1%1"
 
-#: ksysguard.cpp:523
+#: ksysguard.cpp:524
 #, kde-format
 msgctxt "Arguments is formatted byte sizes (used)"
 msgid "Swap: %1"
 msgstr ""
 
-#: ksysguard.cpp:572
+#: ksysguard.cpp:573
 #, fuzzy, kde-format
 #| msgid "(c) 1996-2008 The KDE System Monitor Developers"
 msgid "(c) 1996-2016 The KDE System Monitor Developers"
 msgstr "(c) 1996-2008 കെഡിഇ സിസ്റ്റം മോണിറ്റര്‍ ഡവലപര്‍മാര്‍"
 
-#: ksysguard.cpp:574
+#: ksysguard.cpp:575
 #, kde-format
 msgid "John Tapsell"
 msgstr "ജോണ്‍ ടാപ്സെല്‍"
 
-#: ksysguard.cpp:574
+#: ksysguard.cpp:575
 #, kde-format
 msgid "Current Maintainer"
 msgstr "നിലവിലുള്ള പാലകന്‍"
 
-#: ksysguard.cpp:575
+#: ksysguard.cpp:576
 #, kde-format
 msgid "Chris Schlaeger"
 msgstr "ക്രിസ് ഷാലെയിഗര്‍"
 
-#: ksysguard.cpp:575
+#: ksysguard.cpp:576
 #, kde-format
 msgid "Previous Maintainer"
 msgstr "മുമ്പുള്ള പാലകന്‍"
 
-#: ksysguard.cpp:576
+#: ksysguard.cpp:577
 #, kde-format
 msgid "Greg Martyn"
 msgstr "ഗ്രെഗ് മാര്‍ട്ടിന്‍"
 
-#: ksysguard.cpp:577
+#: ksysguard.cpp:578
 #, kde-format
 msgid "Tobias Koenig"
 msgstr "തോബിയാസ് കോയ്നിഗ്"
 
-#: ksysguard.cpp:578
+#: ksysguard.cpp:579
 #, kde-format
 msgid "Nicolas Leclercq"
 msgstr "നിക്കോളസ് ലിക്ലെര്‍ക്"
 
-#: ksysguard.cpp:579
+#: ksysguard.cpp:580
 #, kde-format
 msgid "Alex Sanda"
 msgstr "അലക്സ് സാന്‍ഡാ"
 
-#: ksysguard.cpp:580
+#: ksysguard.cpp:581
 #, kde-format
 msgid "Bernd Johannes Wuebben"
 msgstr "ബെര്‍ണ്ട് ജോഹന്നസ് വ്യൂബന്‍"
 
-#: ksysguard.cpp:581
+#: ksysguard.cpp:582
 #, kde-format
 msgid "Ralf Mueller"
 msgstr "റാല്‍ഫ് മ്യൂളര്‍"
 
-#: ksysguard.cpp:582
+#: ksysguard.cpp:583
 #, kde-format
 msgid "Hamish Rodda"
 msgstr "ഹമിഷ് റോഡാ"
 
-#: ksysguard.cpp:583
+#: ksysguard.cpp:584
 #, kde-format
 msgid "Torsten Kasch"
 msgstr "ടോര്‍സ്റ്റന്‍ കാഷ്"
 
-#: ksysguard.cpp:583
+#: ksysguard.cpp:584
 #, kde-format
 msgid ""
 "Solaris Support\n"
@@ -337,7 +337,7 @@ msgid ""
 "module of William LeFebvre's \"top\" utility."
 msgstr ""
 
-#: ksysguard.cpp:592
+#: ksysguard.cpp:593
 #, kde-format
 msgid "Optional worksheet files to load"
 msgstr ""
@@ -1151,8 +1151,7 @@ msgid "Timer Interval"
 msgstr "പിങ് ചെയ്യുന്നതിനുളള ഇടവേള (_P):"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, m_timerInterval)
-#: SensorDisplayLib/SensorLoggerDlgWidget.ui:59 TimerSettings.cpp:57
-#: WorkSheetSettings.cpp:111
+#: SensorDisplayLib/SensorLoggerDlgWidget.ui:59 WorkSheetSettings.cpp:111
 #, kde-format
 msgid " sec"
 msgstr " sec"
@@ -1240,26 +1239,6 @@ msgstr "റിസീവര്‍"
 #: SystemLoad2.sgrd:14
 #, kde-format
 msgid "Sending"
-msgstr ""
-
-#: TimerSettings.cpp:37
-#, kde-format
-msgid "Timer Settings"
-msgstr "ടൈമര്‍ സജ്ജീകരണങ്ങള്‍"
-
-#: TimerSettings.cpp:47
-#, fuzzy, kde-format
-msgid "Use update interval of worksheet"
-msgstr "സെക്കന്‍ഡുകളില്‍ ഇടവേള പുതുക്കുക: (_U)"
-
-#: TimerSettings.cpp:50 WorkSheetSettings.cpp:104
-#, kde-format
-msgid "Update interval:"
-msgstr "പുതുക്കലിനുളള ഇടവേള:"
-
-#: TimerSettings.cpp:60 WorkSheetSettings.cpp:117
-#, kde-format
-msgid "All displays of the sheet are updated at the rate specified here."
 msgstr ""
 
 #: WorkSheet.cpp:87
@@ -1364,6 +1343,16 @@ msgstr ""
 msgid "Enter the number of columns the sheet should have."
 msgstr ""
 
+#: WorkSheetSettings.cpp:104
+#, kde-format
+msgid "Update interval:"
+msgstr "പുതുക്കലിനുളള ഇടവേള:"
+
+#: WorkSheetSettings.cpp:117
+#, kde-format
+msgid "All displays of the sheet are updated at the rate specified here."
+msgstr ""
+
 #: WorkSheetSettings.cpp:118
 #, fuzzy, kde-format
 msgid "Enter the title of the worksheet here."
@@ -1419,6 +1408,13 @@ msgstr ""
 #| msgid "System Monitor"
 msgid "Upload custom System Monitor tab"
 msgstr "സിസ്റ്റം മോണിറ്റര്‍"
+
+#~ msgid "Timer Settings"
+#~ msgstr "ടൈമര്‍ സജ്ജീകരണങ്ങള്‍"
+
+#, fuzzy
+#~ msgid "Use update interval of worksheet"
+#~ msgstr "സെക്കന്‍ഡുകളില്‍ ഇടവേള പുതുക്കുക: (_U)"
 
 #~ msgctxt "Arguments are formatted byte sizes (used/total)"
 #~ msgid "Memory: %1 / %2Mem: %1 / %2Mem: %1%1"

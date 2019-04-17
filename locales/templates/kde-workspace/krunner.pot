@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-28 03:51+0200\n"
+"POT-Creation-Date: 2019-04-05 03:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -35,6 +35,11 @@ msgstr ""
 #: main.cpp:65
 #, kde-format
 msgid "Run Command interface"
+msgstr ""
+
+#: main.cpp:73
+#, kde-format
+msgid "Replace an existing instance"
 msgstr ""
 
 #: view.cpp:63

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-02-28 03:24+0100\n"
 "PO-Revision-Date: 2010-12-16 22:42+0530\n"
 "Last-Translator: Anish A <anish.nl@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് "
@@ -39,7 +39,7 @@ msgstr ""
 msgid "Launch Feedback"
 msgstr ""
 
-#: package/contents/ui/main.qml:56
+#: package/contents/ui/main.qml:60
 #, fuzzy, kde-format
 #| msgid "Bus&y Cursor"
 msgid "Cursor:"
@@ -50,41 +50,41 @@ msgstr "&തിരക്കിലാണെന്ന കര്‍സര്‍"
 msgid "No Feedback"
 msgstr ""
 
-#: package/contents/ui/main.qml:70
+#: package/contents/ui/main.qml:69
 #, kde-format
 msgid "Static"
 msgstr ""
 
-#: package/contents/ui/main.qml:78
+#: package/contents/ui/main.qml:77
 #, fuzzy, kde-format
 #| msgid "Blinking Cursor"
 msgid "Blinking"
 msgstr "ചിമ്മുന്ന കര്‍സര്‍"
 
-#: package/contents/ui/main.qml:86
+#: package/contents/ui/main.qml:85
 #, fuzzy, kde-format
 #| msgid "Bouncing Cursor"
 msgid "Bouncing"
 msgstr "തട്ടിതിരിച്ചുവരുന്ന (ബൗണ്‍സിങ്ങ് ) കര്‍സര്‍"
 
-#: package/contents/ui/main.qml:95
+#: package/contents/ui/main.qml:93
 #, kde-format
 msgid "Task Manager:"
 msgstr ""
 
-#: package/contents/ui/main.qml:97
+#: package/contents/ui/main.qml:95
 #, fuzzy, kde-format
 #| msgid "Enable &taskbar notification"
 msgid "Enable animation"
 msgstr "പ്രാവര്‍ത്തികമാക്കുക ടാസ്ക്ക്-ബാര്‍ അറിയിപ്പ്"
 
-#: package/contents/ui/main.qml:106
+#: package/contents/ui/main.qml:104
 #, fuzzy, kde-format
 #| msgid "&Startup indication timeout:"
 msgid "Stop animation after:"
 msgstr "&തുടക്കം സൂചന തരുന്ന സമയം"
 
-#: package/contents/ui/main.qml:115
+#: package/contents/ui/main.qml:113
 #, fuzzy, kde-format
 #| msgid " sec"
 msgid "%1 sec"

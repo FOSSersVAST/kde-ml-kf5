@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_pager trunk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-23 04:03+0200\n"
+"POT-Creation-Date: 2019-03-15 03:39+0100\n"
 "PO-Revision-Date: 2008-11-23 20:00-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -105,7 +105,7 @@ msgstr ""
 msgid "Shows desktop"
 msgstr ""
 
-#: package/contents/ui/main.qml:325
+#: package/contents/ui/main.qml:329
 #, fuzzy, kde-format
 #| msgid "and 1 other"
 #| msgid_plural "and %1 others"
@@ -114,7 +114,7 @@ msgid_plural "...and %1 other windows"
 msgstr[0] "1 കൂടി"
 msgstr[1] "1 കൂടി"
 
-#: package/contents/ui/main.qml:349
+#: package/contents/ui/main.qml:353
 #, fuzzy, kde-format
 #| msgid "One window:"
 #| msgid_plural "%1 windows:"
@@ -123,35 +123,40 @@ msgid_plural "%1 Windows:"
 msgstr[0] "ഒരു ജാലകം:"
 msgstr[1] "ഒരു ജാലകം:"
 
-#: package/contents/ui/main.qml:358
+#: package/contents/ui/main.qml:362
 #, kde-format
 msgid "%1 Minimized Window:"
 msgid_plural "%1 Minimized Windows:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/main.qml:533
+#: package/contents/ui/main.qml:537
 #, kde-format
 msgid "Show Activity Manager..."
 msgstr ""
 
-#: package/contents/ui/main.qml:536
+#: package/contents/ui/main.qml:540
 #, fuzzy, kde-format
 #| msgid "&Configure Desktops..."
 msgid "Add Virtual Desktop"
 msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
-#: package/contents/ui/main.qml:537
+#: package/contents/ui/main.qml:541
 #, fuzzy, kde-format
 #| msgid "&Configure Desktops..."
 msgid "Remove Virtual Desktop"
 msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
-#: package/contents/ui/main.qml:542
+#: package/contents/ui/main.qml:546
 #, fuzzy, kde-format
-#| msgid "Configure Desktops..."
-msgid "Configure Desktops..."
-msgstr "പണിയിടങ്ങള്‍ ക്രമീകരിയ്ക്കുക..."
+#| msgid "&Configure Desktops..."
+msgid "Configure Virtual Desktops..."
+msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
+
+#, fuzzy
+#~| msgid "Configure Desktops..."
+#~ msgid "Configure Desktops..."
+#~ msgstr "പണിയിടങ്ങള്‍ ക്രമീകരിയ്ക്കുക..."
 
 #~ msgid "Display icons:"
 #~ msgstr "ചിഹ്നങ്ങള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുക:"
@@ -174,11 +179,6 @@ msgstr "പണിയിടങ്ങള്‍ ക്രമീകരിയ്ക�
 
 #~ msgid "Change the number of rows"
 #~ msgstr "നിരകളുടെ എണ്ണം മാറ്റുക"
-
-#, fuzzy
-#~| msgid "&Configure Desktops..."
-#~ msgid "&Configure Virtual Desktops..."
-#~ msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
 #~ msgid "None"
 #~ msgstr "ഒന്നുമില്ല"

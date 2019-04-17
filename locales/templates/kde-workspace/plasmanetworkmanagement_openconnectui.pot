@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2018-12-18 03:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -22,12 +22,12 @@ msgstr ""
 msgid "Contacting host, please wait..."
 msgstr ""
 
-#: openconnectauth.cpp:493
+#: openconnectauth.cpp:504
 #, kde-format
 msgid "Login"
 msgstr ""
 
-#: openconnectauth.cpp:550
+#: openconnectauth.cpp:561
 #, kde-format
 msgid ""
 "Check failed for certificate from VPN server \"%1\".\n"
@@ -35,7 +35,7 @@ msgid ""
 "Accept it anyway?"
 msgstr ""
 
-#: openconnectauth.cpp:644
+#: openconnectauth.cpp:655
 #, kde-format
 msgid "Connection attempt was unsuccessful."
 msgstr ""

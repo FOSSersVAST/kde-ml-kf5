@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-18 03:57+0200\n"
+"POT-Creation-Date: 2019-03-10 03:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -87,25 +87,25 @@ msgctxt "Speed and estimated time to completion"
 msgid "%1 (%2 remaining)"
 msgstr ""
 
-#: contents/ui/Jobs.qml:77
+#: contents/ui/Jobs.qml:80
 msgctxt "the job, which can be anything, has finished"
 msgid "%1: Finished"
 msgstr ""
 
-#: contents/ui/Jobs.qml:77
+#: contents/ui/Jobs.qml:80
 msgid "Job Finished"
 msgstr ""
 
-#: contents/ui/Jobs.qml:80
+#: contents/ui/Jobs.qml:83
 msgctxt "the job, which can be anything, failed to complete"
 msgid "%1: Failed"
 msgstr ""
 
-#: contents/ui/Jobs.qml:80
+#: contents/ui/Jobs.qml:83
 msgid "Job Failed"
 msgstr ""
 
-#: contents/ui/Jobs.qml:101
+#: contents/ui/Jobs.qml:104
 msgid "Open..."
 msgstr ""
 
@@ -137,49 +137,49 @@ msgstr ""
 msgid "&Configure Event Notifications and Actions..."
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:111
+#: contents/ui/NotificationItem.qml:123
 msgctxt "notification was just added, keep short"
 msgid "Just now"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:113
+#: contents/ui/NotificationItem.qml:125
 msgctxt "10 seconds ago, keep short"
 msgid "10 s ago"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:115
+#: contents/ui/NotificationItem.qml:127
 msgctxt "30 seconds ago, keep short"
 msgid "30 s ago"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:117
+#: contents/ui/NotificationItem.qml:129
 msgctxt "minutes ago, keep short"
 msgid "%1 min ago"
 msgid_plural "%1 min ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: contents/ui/NotificationItem.qml:128
+#: contents/ui/NotificationItem.qml:140
 msgctxt "notification was added yesterday, keep short"
 msgid "Yesterday"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:131
+#: contents/ui/NotificationItem.qml:143
 msgctxt "notification was added n days ago, keep short"
 msgid "%1 day ago"
 msgid_plural "%1 days ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: contents/ui/NotificationItem.qml:353
+#: contents/ui/NotificationItem.qml:369
 msgid "Copy Link Address"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:364
+#: contents/ui/NotificationItem.qml:380
 msgid "Copy"
 msgstr ""
 
-#: contents/ui/NotificationItem.qml:371
+#: contents/ui/NotificationItem.qml:387
 msgid "Select All"
 msgstr ""
 

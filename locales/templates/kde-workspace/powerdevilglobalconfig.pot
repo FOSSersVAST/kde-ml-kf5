@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2019-02-28 03:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,7 +34,8 @@ msgstr ""
 
 #: GeneralPage.cpp:107
 #, kde-format
-msgid "Suspend"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
 msgstr ""
 
 #: GeneralPage.cpp:110

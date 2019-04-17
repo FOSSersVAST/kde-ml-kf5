@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"POT-Creation-Date: 2019-02-05 03:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -67,44 +67,44 @@ msgstr ""
 msgid "Kai Uwe Broulik"
 msgstr ""
 
-#: main.cpp:279
+#: main.cpp:284
 #, kde-format
 msgid "Download New Icon Themes"
 msgstr ""
 
-#: main.cpp:311
+#: main.cpp:320
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: main.cpp:322
+#: main.cpp:332
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
 msgstr ""
 
-#: main.cpp:335
+#: main.cpp:346
 #, kde-format
 msgid "The file is not a valid icon theme archive."
 msgstr ""
 
-#: main.cpp:340
+#: main.cpp:351
 #, kde-format
 msgid ""
 "A problem occurred during the installation process; however, most of the "
 "themes in the archive have been installed"
 msgstr ""
 
-#: main.cpp:344
+#: main.cpp:355
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: main.cpp:454
+#: main.cpp:465
 #, kde-format
 msgid "Installing icon themes..."
 msgstr ""
 
-#: main.cpp:464
+#: main.cpp:475
 #, kde-format
 msgid "Installing %1 theme..."
 msgstr ""
@@ -144,37 +144,37 @@ msgstr ""
 msgid "This module allows you to choose the icons for your desktop."
 msgstr ""
 
-#: package/contents/ui/main.qml:168
+#: package/contents/ui/main.qml:155
 #, kde-format
 msgid "Remove Icon Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:175
+#: package/contents/ui/main.qml:162
 #, kde-format
 msgid "Restore Icon Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:244
+#: package/contents/ui/main.qml:231
 #, kde-format
 msgid "Configure Icon Sizes"
 msgstr ""
 
-#: package/contents/ui/main.qml:260
+#: package/contents/ui/main.qml:247
 #, kde-format
 msgid "Install from File..."
 msgstr ""
 
-#: package/contents/ui/main.qml:266
+#: package/contents/ui/main.qml:253
 #, kde-format
 msgid "Get New Icons..."
 msgstr ""
 
-#: package/contents/ui/main.qml:287
+#: package/contents/ui/main.qml:274
 #, kde-format
 msgid "Open Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:289
+#: package/contents/ui/main.qml:276
 #, kde-format
 msgid "Theme Files (*.tar.gz *.tar.bz2)"
 msgstr ""

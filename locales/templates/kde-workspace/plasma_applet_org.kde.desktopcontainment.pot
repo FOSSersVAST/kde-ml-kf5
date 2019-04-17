@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-02 04:01+0100\n"
+"POT-Creation-Date: 2019-04-17 03:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: package/contents/config/config.qml:36 package/contents/ui/ConfigIcons.qml:222
+#: package/contents/config/config.qml:36 package/contents/ui/ConfigIcons.qml:223
 #: package/contents/ui/FolderViewLayer.qml:422
 msgid "Icons"
 msgstr ""
@@ -90,144 +90,162 @@ msgstr ""
 msgid "Deselect All"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:77
+#: package/contents/ui/ConfigIcons.qml:78
 msgid "Panel button:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:83
+#: package/contents/ui/ConfigIcons.qml:84
 msgid "Use a custom icon"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:117
+#: package/contents/ui/ConfigIcons.qml:118
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:123
+#: package/contents/ui/ConfigIcons.qml:124
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:142
+#: package/contents/ui/ConfigIcons.qml:143
 msgid "Arrangement:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:144
+#: package/contents/ui/ConfigIcons.qml:145
 #: plugins/folder/viewpropertiesmenu.cpp:34
 #, kde-format
 msgid "Rows"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:144
+#: package/contents/ui/ConfigIcons.qml:145
 #: plugins/folder/viewpropertiesmenu.cpp:38
 #, kde-format
 msgid "Columns"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:151
+#: package/contents/ui/ConfigIcons.qml:152
 msgid "Align Left"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:151
+#: package/contents/ui/ConfigIcons.qml:152
 msgid "Align Right"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:166
+#: package/contents/ui/ConfigIcons.qml:167
 msgid "Lock in place"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:179
+#: package/contents/ui/ConfigIcons.qml:180
 msgid "Sorting:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 msgid "Manual"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:62
 #, kde-format
 msgid "Name"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:66
 #, kde-format
 msgid "Size"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:70
 #, kde-format
 msgid "Type"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:74
 #, kde-format
 msgid "Date"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:198
+#: package/contents/ui/ConfigIcons.qml:199
 #: plugins/folder/viewpropertiesmenu.cpp:79
 #, kde-format
 msgid "Descending"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:206
+#: package/contents/ui/ConfigIcons.qml:207
 msgid "Folders first"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/ConfigIcons.qml:221
 msgctxt "whether to use icon or list view"
 msgid "View mode:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:222
+#: package/contents/ui/ConfigIcons.qml:223
 msgid "List"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:231
-msgid "Size:"
+#: package/contents/ui/ConfigIcons.qml:234
+msgid "Icon size:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:246
+#: package/contents/ui/ConfigIcons.qml:249
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Small"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:255
+#: package/contents/ui/ConfigIcons.qml:258
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Large"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:263
-msgid "Text lines:"
+#: package/contents/ui/ConfigIcons.qml:266
+msgid "Label width:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:269
+msgid "Narrow"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:270
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Medium"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:271
+msgid "Wide"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:279
-msgid "Features:"
-msgstr ""
-
-#: package/contents/ui/ConfigIcons.qml:281
-msgid "Tooltips"
-msgstr ""
-
-#: package/contents/ui/ConfigIcons.qml:288
-msgid "Selection markers"
+msgid "Text lines:"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:295
+msgid "Features:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:297
+msgid "Tooltips"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:304
+msgid "Selection markers"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:311
 msgid "Folder preview popups"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:301
+#: package/contents/ui/ConfigIcons.qml:317
 msgid "Preview thumbnails"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:307
+#: package/contents/ui/ConfigIcons.qml:323
 msgid "More Preview Options..."
 msgstr ""
 
@@ -279,19 +297,17 @@ msgstr ""
 msgid "Enter custom title here"
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:42
-msgid "Desktop Layout"
+#: package/contents/ui/ConfigTweaks.qml:43
+msgid ""
+"With the Desktop Toolbox hidden, right-click on the desktop and choose "
+"'Configure Desktop...' to access this configuration window in the future"
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:51
+#: package/contents/ui/ConfigTweaks.qml:54
 msgid "Show the desktop toolbox"
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:59
-msgid "Widget Handling"
-msgstr ""
-
-#: package/contents/ui/ConfigTweaks.qml:69
+#: package/contents/ui/ConfigTweaks.qml:72
 msgid "Press and hold widgets to move them and reveal their handles"
 msgstr ""
 
@@ -307,20 +323,20 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/main.qml:376
+#: package/contents/ui/main.qml:382
 msgid "Widgets unlocked"
 msgstr ""
 
-#: package/contents/ui/main.qml:377
+#: package/contents/ui/main.qml:383
 msgid "You can press and hold widgets to move them and reveal their handles."
 msgstr ""
 
-#: package/contents/ui/main.qml:378
+#: package/contents/ui/main.qml:384
 msgid "Got it"
 msgstr ""
 
-#: package/contents/ui/main.qml:591
-msgid "Configure Desktop"
+#: package/contents/ui/main.qml:597
+msgid "Configure Desktop..."
 msgstr ""
 
 #: plugins/folder/directorypicker.cpp:45
@@ -328,38 +344,38 @@ msgstr ""
 msgid "Select Folder"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:397
+#: plugins/folder/foldermodel.cpp:402
 #, kde-format
 msgid "&Refresh Desktop"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:397 plugins/folder/foldermodel.cpp:1592
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1604
 #, kde-format
 msgid "&Refresh View"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:1599
+#: plugins/folder/foldermodel.cpp:1611
 #, kde-format
-msgid "&Empty Trash Bin"
+msgid "&Empty Trash"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:1602
+#: plugins/folder/foldermodel.cpp:1614
 #, kde-format
 msgctxt "Restore from trash"
 msgid "Restore"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:1607
+#: plugins/folder/foldermodel.cpp:1619
 #, kde-format
 msgid "&Open"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:1723
+#: plugins/folder/foldermodel.cpp:1735
 #, kde-format
 msgid "&Paste"
 msgstr ""
 
-#: plugins/folder/foldermodel.cpp:1830
+#: plugins/folder/foldermodel.cpp:1843
 #, kde-format
 msgid "&Properties"
 msgstr ""
@@ -412,11 +428,6 @@ msgstr ""
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Small Medium"
-msgstr ""
-
-#: plugins/folder/viewpropertiesmenu.cpp:88
-#, kde-format
-msgid "Medium"
 msgstr ""
 
 #: plugins/folder/viewpropertiesmenu.cpp:88

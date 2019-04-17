@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-26 03:57+0200\n"
+"POT-Creation-Date: 2019-04-11 03:46+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -378,8 +378,8 @@ msgctxt "@info/rich"
 msgid ""
 "If you are interested in helping us to keep the KDE bug tracker system clean "
 "and useful, which allows the developers to be more focused on fixing the "
-"real issues,  you are welcome to <link url='http://techbase.kde.org/"
-"Contribute/Bugsquad'>join the BugSquad team</link>."
+"real issues,  you are welcome to <link url='https://community.kde.org/"
+"Guidelines_and_HOWTOs/Bug_triaging'>join the BugSquad team</link>."
 msgstr ""
 
 #: applicationdetailsexamples.cpp:34
@@ -493,7 +493,7 @@ msgid ""
 "are commonly used during interactive and post-mortem debugging.</p>"
 msgstr ""
 
-#: backtracewidget.cpp:129 bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:628
+#: backtracewidget.cpp:129 bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:623
 #, kde-format
 msgctxt "@info:status"
 msgid "Loading..."
@@ -528,31 +528,31 @@ msgid ""
 "debugger and click <interface>Reload</interface>."
 msgstr ""
 
-#: backtracewidget.cpp:226
+#: backtracewidget.cpp:229
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is useful"
 msgstr ""
 
-#: backtracewidget.cpp:229
+#: backtracewidget.cpp:232
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information may be useful"
 msgstr ""
 
-#: backtracewidget.cpp:232
+#: backtracewidget.cpp:235
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is probably not useful"
 msgstr ""
 
-#: backtracewidget.cpp:235
+#: backtracewidget.cpp:238
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is not useful"
 msgstr ""
 
-#: backtracewidget.cpp:239
+#: backtracewidget.cpp:242
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -560,7 +560,7 @@ msgid ""
 "itself."
 msgstr ""
 
-#: backtracewidget.cpp:250
+#: backtracewidget.cpp:253
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -572,7 +572,7 @@ msgid ""
 "<interface>Reload</interface> button."
 msgstr ""
 
-#: backtracewidget.cpp:267
+#: backtracewidget.cpp:270
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -582,19 +582,19 @@ msgid ""
 "button."
 msgstr ""
 
-#: backtracewidget.cpp:283
+#: backtracewidget.cpp:286
 #, kde-format
 msgctxt "@info:status"
 msgid "The debugger has quit unexpectedly."
 msgstr ""
 
-#: backtracewidget.cpp:286 backtracewidget.cpp:301
+#: backtracewidget.cpp:289 backtracewidget.cpp:304
 #, kde-format
 msgctxt "@info:status"
 msgid "The crash information could not be generated."
 msgstr ""
 
-#: backtracewidget.cpp:289
+#: backtracewidget.cpp:292
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -602,7 +602,7 @@ msgid ""
 "interface> button."
 msgstr ""
 
-#: backtracewidget.cpp:297
+#: backtracewidget.cpp:300
 #, kde-format
 msgctxt "@info:status"
 msgid ""
@@ -610,7 +610,7 @@ msgid ""
 "strong>"
 msgstr ""
 
-#: backtracewidget.cpp:303
+#: backtracewidget.cpp:306
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -618,27 +618,27 @@ msgid ""
 "the <interface>Reload</interface> button.</strong>"
 msgstr ""
 
-#: backtracewidget.cpp:358
+#: backtracewidget.cpp:367
 #, kde-format
 msgctxt "@title:window"
 msgid "Error during the installation of debug symbols"
 msgstr ""
 
-#: backtracewidget.cpp:390
+#: backtracewidget.cpp:399
 #, kde-format
 msgid ""
 "The packages containing debug information for the following application and "
 "libraries are missing:"
 msgstr ""
 
-#: backtracewidget.cpp:399
+#: backtracewidget.cpp:408
 #, kde-format
 msgctxt "messagebox title"
 msgid "Missing debug information packages"
 msgstr ""
 
 #: bugzillaintegration/bugzillalib.cpp:317
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:815
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:810
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1640,19 +1640,19 @@ msgid ""
 "bug report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:631
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:626
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<link url='%1'>Report's webpage</link>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:634
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:629
 #, kde-kuit-format
 msgctxt "@info:status"
 msgid "Loading information about bug %1 from %2...."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:640
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:635
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1660,19 +1660,19 @@ msgid ""
 "\n"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:668
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:663
 #, kde-format
 msgctxt "@action:button let the user to choose to read the main report"
 msgid "Yes, read the main report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:672
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:667
 #, kde-format
 msgctxt "@action:button let the user choose to read the original report"
 msgid "No, let me read the report I selected"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:675
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:670
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1680,79 +1680,79 @@ msgid ""
 "Do you want to read that report instead? (recommended)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:679
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:674
 #, kde-format
 msgctxt "@title:window"
 msgid "Nested duplicate detected"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:697
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:692
 #, kde-format
 msgctxt "comment $number to use as subtitle"
 msgid "<h4>Comment %1:</h4>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:716
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:711
 #, kde-format
 msgctxt "@info bug status"
 msgid "Opened (Unconfirmed)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:718
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:713
 #, kde-format
 msgctxt "@info bug status"
 msgid "Opened (Unfixed)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:724
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:719
 #, kde-format
 msgctxt "@info bug resolution, fixed in version"
 msgid "Fixed in version \"%1\""
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:727
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:722
 #, kde-format
 msgctxt "@info bug resolution, fixed by kde devs in version"
 msgid "the bug was fixed by KDE developers in version \"%1\""
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:730
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:725
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "Fixed"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:731
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:726
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "the bug was fixed by KDE developers"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:734
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:729
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "Non-reproducible"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:736
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:731
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "Duplicate report (Already reported before)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:739
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:734
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "Not a valid report/crash"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:741
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:736
 #, kde-format
 msgctxt "@info bug resolution"
 msgid "Not caused by a problem in the KDE's Applications or libraries"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:743
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:738
 #, kde-format
 msgctxt "@info bug resolution"
 msgid ""
@@ -1760,19 +1760,19 @@ msgid ""
 "a distribution or packaging issue"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:750
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:745
 #, kde-format
 msgctxt "@info bug status, %1 is the resolution"
 msgid "Closed (%1)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:753
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:748
 #, kde-format
 msgctxt "@info bug status"
 msgid "Temporarily closed, because of a lack of information"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:760
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:755
 #, kde-kuit-format
 msgid ""
 "<p><note>The bug report's title is often written by its reporter and may not "
@@ -1781,7 +1781,7 @@ msgid ""
 "comments below.</note></p>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:766
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:761
 #, kde-kuit-format
 msgid ""
 "<p><note>This bug report has %1 duplicate report. That means this is "
@@ -1796,50 +1796,50 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:783
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:778
 #, kde-kuit-format
 msgid ""
 "<p><note>This bug report is not about a crash or about any other critical "
 "bug.</note></p>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:790
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:785
 #, kde-format
 msgctxt "@info bug report title (quoted)"
 msgid "<h3>\"%1\"</h3>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:793
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:788
 #, kde-format
 msgctxt "@info bug report status"
 msgid "<h4>Bug Report Status: %1</h4>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:795
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:790
 #, kde-format
 msgctxt "@info bug report product and component"
 msgid "<h4>Affected Component: %1 (%2)</h4>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:798
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:793
 #, kde-format
 msgctxt "@info bug report description"
 msgid "<h3>Description of the bug</h3><p>%1</p>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:803
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:798
 #, kde-format
 msgctxt "@label:textbox bug report comments (already formatted)"
 msgid "<h2>Additional Comments</h2>%1"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:812
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:807
 #, kde-kuit-format
 msgctxt "@info:status"
 msgid "Showing bug %1"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:851
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:846
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -1847,42 +1847,42 @@ msgid ""
 "some time and try again."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:855
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:850
 #, kde-format
 msgctxt "@info"
 msgid "Error fetching the bug report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:856
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:851
 #, kde-format
 msgctxt "@info:status"
 msgid "Error fetching the bug report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:894
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:889
 #, kde-format
 msgctxt "@title:window"
 msgid "Related Bug Report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:897
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:892
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel (Go back to the report)"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:899
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:894
 #, kde-format
 msgctxt "@action:button continue with the selected option and close the dialog"
 msgid "Continue"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:908
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:903
 #, kde-format
 msgid "You are going to mark your crash as related to bug %1"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:921
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:916
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -2457,124 +2457,124 @@ msgstr ""
 msgid "Failed to retrieve the config data."
 msgstr ""
 
-#: main.cpp:47
+#: main.cpp:52
 #, kde-format
 msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgstr ""
 
-#: main.cpp:72
+#: main.cpp:77
 #, kde-format
 msgid "The KDE Crash Handler"
 msgstr ""
 
-#: main.cpp:75
+#: main.cpp:80
 #, kde-format
 msgid "(C) 2000-2018, The DrKonqi Authors"
 msgstr ""
 
-#: main.cpp:76
+#: main.cpp:81
 #, kde-format
 msgctxt "@info:credit"
 msgid "Hans Petter Bieker"
 msgstr ""
 
-#: main.cpp:78
+#: main.cpp:83
 #, kde-format
 msgctxt "@info:credit"
 msgid "Dario Andres Rodriguez"
 msgstr ""
 
-#: main.cpp:80
+#: main.cpp:85
 #, kde-format
 msgctxt "@info:credit"
 msgid "George Kiagiadakis"
 msgstr ""
 
-#: main.cpp:82
+#: main.cpp:87
 #, kde-format
 msgctxt "@info:credit"
 msgid "A. L. Spehr"
 msgstr ""
 
-#: main.cpp:90
+#: main.cpp:95
 #, kde-format
 msgctxt "@info:shell"
 msgid "The signal <number> that was caught"
 msgstr ""
 
-#: main.cpp:91
+#: main.cpp:96
 #, kde-format
 msgctxt "@info:shell"
 msgid "<Name> of the program"
 msgstr ""
 
-#: main.cpp:92
+#: main.cpp:97
 #, kde-format
 msgctxt "@info:shell"
 msgid "<Path> to the executable"
 msgstr ""
 
-#: main.cpp:93
+#: main.cpp:98
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <version> of the program"
 msgstr ""
 
-#: main.cpp:94
+#: main.cpp:99
 #, kde-format
 msgctxt "@info:shell"
 msgid "The bug <address> to use"
 msgstr ""
 
-#: main.cpp:95
+#: main.cpp:100
 #, kde-format
 msgctxt "@info:shell"
 msgid "Translated <name> of the program"
 msgstr ""
 
-#: main.cpp:96
+#: main.cpp:101
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <PID> of the program"
 msgstr ""
 
-#: main.cpp:97
+#: main.cpp:102
 #, kde-format
 msgctxt "@info:shell"
 msgid "Startup <ID> of the program"
 msgstr ""
 
-#: main.cpp:98
+#: main.cpp:103
 #, kde-format
 msgctxt "@info:shell"
 msgid "The program was started by kdeinit"
 msgstr ""
 
-#: main.cpp:99
+#: main.cpp:104
 #, kde-format
 msgctxt "@info:shell"
 msgid "Disable arbitrary disk access"
 msgstr ""
 
-#: main.cpp:100
+#: main.cpp:105
 #, kde-format
 msgctxt "@info:shell"
 msgid "The program has already been restarted"
 msgstr ""
 
-#: main.cpp:101
+#: main.cpp:106
 #, kde-format
 msgctxt "@info:shell"
 msgid "Keep the program running and generate the backtrace at startup"
 msgstr ""
 
-#: main.cpp:103
+#: main.cpp:108
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <thread id> of the failing thread"
 msgstr ""
 
-#: main.cpp:104
+#: main.cpp:109
 #, kde-format
 msgctxt "@info:shell"
 msgid "Do not show a notification but launch the debug dialog directly"
@@ -2586,34 +2586,34 @@ msgctxt "Placeholder is an application name; it crashed"
 msgid "%1 Closed Unexpectedly"
 msgstr ""
 
-#: statusnotifier.cpp:62 statusnotifier.cpp:121
+#: statusnotifier.cpp:60 statusnotifier.cpp:117
 #, kde-format
 msgid "Please report this error to help improve this software."
 msgstr ""
 
-#: statusnotifier.cpp:70
+#: statusnotifier.cpp:68
 #, kde-format
 msgid "Report &Bug"
 msgstr ""
 
-#: statusnotifier.cpp:77
+#: statusnotifier.cpp:75
 #, kde-format
 msgid "&Restart Application"
 msgstr ""
 
-#: statusnotifier.cpp:91
+#: statusnotifier.cpp:87
 #, kde-format
 msgctxt "Allows the user to hide this notifier item"
 msgid "Hide"
 msgstr ""
 
-#: statusnotifier.cpp:126
+#: statusnotifier.cpp:122
 #, kde-format
 msgctxt "Notification action button, keep short"
 msgid "Report Bug"
 msgstr ""
 
-#: statusnotifier.cpp:131
+#: statusnotifier.cpp:127
 #, kde-format
 msgctxt "Notification action button, keep short"
 msgid "Restart App"

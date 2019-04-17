@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"POT-Creation-Date: 2019-04-06 03:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,95 +27,90 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: kcmcursortheme.cpp:73
-#, kde-format
-msgid "Cursor Theme"
-msgstr ""
-
 #: kcmcursortheme.cpp:74
 #, kde-format
-msgid "Mouse Cursor Theme settings"
-msgstr ""
-
-#: kcmcursortheme.cpp:74
-#, kde-format
-msgid "(c) 2003-2007 Fredrik Höglund"
+msgid "Cursors"
 msgstr ""
 
 #: kcmcursortheme.cpp:75
 #, kde-format
-msgid "Fredrik Höglund"
+msgid "(c) 2003-2007 Fredrik Höglund"
 msgstr ""
 
 #: kcmcursortheme.cpp:76
 #, kde-format
+msgid "Fredrik Höglund"
+msgstr ""
+
+#: kcmcursortheme.cpp:77
+#, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: kcmcursortheme.cpp:235
+#: kcmcursortheme.cpp:244
 #, kde-format
 msgctxt "@item:inlistbox size"
 msgid "Resolution dependent"
 msgstr ""
 
-#: kcmcursortheme.cpp:364
+#: kcmcursortheme.cpp:376
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr ""
 
-#: kcmcursortheme.cpp:466
+#: kcmcursortheme.cpp:511
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: kcmcursortheme.cpp:477
+#: kcmcursortheme.cpp:523
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
 msgstr ""
 
-#: kcmcursortheme.cpp:507
+#: kcmcursortheme.cpp:554
 #, kde-format
 msgid "The file is not a valid icon theme archive."
 msgstr ""
 
-#: kcmcursortheme.cpp:514
+#: kcmcursortheme.cpp:561
 #, kde-format
 msgid "Failed to create 'icons' folder."
 msgstr ""
 
-#: kcmcursortheme.cpp:522
+#: kcmcursortheme.cpp:569
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
 
-#: kcmcursortheme.cpp:526
+#: kcmcursortheme.cpp:573
 #, kde-format
 msgid "Overwrite Theme?"
 msgstr ""
 
-#: kcmcursortheme.cpp:552
+#: kcmcursortheme.cpp:599
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcmcursortheme.cpp:568
+#: kcmcursortheme.cpp:615
 #, kde-format
 msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
 "switch to another theme first.</qt>"
 msgstr ""
 
-#: kcmcursortheme.cpp:574
+#: kcmcursortheme.cpp:621
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 "will delete all the files installed by this theme.</qt>"
 msgstr ""
 
-#: kcmcursortheme.cpp:580
+#: kcmcursortheme.cpp:627
 #, kde-format
 msgid "Confirmation"
 msgstr ""
@@ -127,30 +122,30 @@ msgstr ""
 
 #: package/contents/ui/main.qml:31
 #, kde-format
-msgid "This module lets you configure the mouse cursor theme used."
+msgid "This module lets you choose the mouse cursor theme."
 msgstr ""
 
-#: package/contents/ui/main.qml:96
+#: package/contents/ui/main.qml:98
 #, kde-format
 msgid "Size:"
 msgstr ""
 
-#: package/contents/ui/main.qml:139
+#: package/contents/ui/main.qml:146
 #, kde-format
-msgid "&Install From File..."
+msgid "&Install from File..."
 msgstr ""
 
-#: package/contents/ui/main.qml:145
+#: package/contents/ui/main.qml:152
 #, kde-format
 msgid "&Get New Cursors..."
 msgstr ""
 
-#: package/contents/ui/main.qml:167
+#: package/contents/ui/main.qml:174
 #, kde-format
 msgid "Open Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:169
+#: package/contents/ui/main.qml:176
 #, kde-format
 msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
 msgstr ""

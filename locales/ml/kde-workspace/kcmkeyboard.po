@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkeyboard trunk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-01-23 03:30+0100\n"
 "PO-Revision-Date: 2010-12-16 22:21+0530\n"
 "Last-Translator: Anish A <anish.nl@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing\n"
@@ -46,7 +46,7 @@ msgstr "അടുത്ത കീബോര്‍ഡു് വിന്യാസ�
 msgid "Switch keyboard layout to %1"
 msgstr "'%1' കീബോര്‍ഡു് വിന്യാസത്തിലേയ്ക്കു് മാറ്റുന്നതില്‍ പിശകു്"
 
-#: flags.cpp:169
+#: flags.cpp:168
 #, fuzzy, kde-format
 #| msgctxt "vendor | keyboard model"
 #| msgid "%1 | %2"
@@ -54,7 +54,7 @@ msgctxt "short layout label - full layout name"
 msgid "%1 - %2"
 msgstr "%1 | %2"
 
-#: flags.cpp:177
+#: flags.cpp:176
 #, fuzzy, kde-format
 #| msgctxt "vendor | keyboard model"
 #| msgid "%1 | %2"

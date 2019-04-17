@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-03-31 08:04+0000\n"
+"POT-Creation-Date: 2018-11-28 03:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -28,4 +28,9 @@ msgstr ""
 #. (itstool) path: description/p
 #: org.kde.discover.appdata.xml:11
 msgid "Furthermore, Discover will let you manage the different sources of software you have and manage the applications you’ve already installed in the past but you don’t want anymore."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.discover.appdata.xml:16
+msgid "New Discover design"
 msgstr ""

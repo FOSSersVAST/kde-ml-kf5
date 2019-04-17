@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-20 03:57+0200\n"
+"POT-Creation-Date: 2019-03-27 03:40+0100\n"
 "PO-Revision-Date: 2010-06-23 20:21+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -318,59 +318,59 @@ msgstr "പൊങ്ങിവരുന്ന ജാലകങ്ങള്‍ക�
 msgid "Clipboard history size:"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രത്തിന്റെ വലിപ്പം:"
 
-#: klipper.cpp:126
+#: klipper.cpp:127
 #, kde-format
 msgid "Enable Clipboard Actions"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് പ്രവൃത്തികള്‍ സജീവമാക്കുക"
 
-#: klipper.cpp:152
+#: klipper.cpp:153
 #, kde-format
 msgid "C&lear Clipboard History"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക"
 
-#: klipper.cpp:159
+#: klipper.cpp:160
 #, kde-format
 msgid "&Configure Klipper..."
 msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
 
-#: klipper.cpp:164
+#: klipper.cpp:165
 #, fuzzy, kde-format
 #| msgid "&Quit"
 msgctxt "@item:inmenu Quit Klipper"
 msgid "&Quit"
 msgstr "പുറത്ത് കടക്കുക"
 
-#: klipper.cpp:168
+#: klipper.cpp:169
 #, kde-format
 msgid "Manually Invoke Action on Current Clipboard"
 msgstr "ഇപ്പോഴത്തെ ഓര്‍മ്മച്ചെപ്പില്‍ പ്രവൃത്തി തുടങ്ങുക"
 
-#: klipper.cpp:175
+#: klipper.cpp:176
 #, kde-format
 msgid "&Edit Contents..."
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക ..."
 
-#: klipper.cpp:186
+#: klipper.cpp:187
 #, kde-format
 msgid "&Show Barcode..."
 msgstr ""
 
-#: klipper.cpp:197
+#: klipper.cpp:198
 #, kde-format
 msgid "Next History Item"
 msgstr "ചരിത്രത്തിലെ അടുത്ത ഇനം"
 
-#: klipper.cpp:201
+#: klipper.cpp:202
 #, kde-format
 msgid "Previous History Item"
 msgstr "ചരിത്രത്തിലെ മുമ്പുള്ള ഇനം"
 
-#: klipper.cpp:207
+#: klipper.cpp:208
 #, kde-format
 msgid "Open Klipper at Mouse Position"
 msgstr ""
 
-#: klipper.cpp:498
+#: klipper.cpp:499
 #, fuzzy, kde-format
 #| msgid ""
 #| "You can enable URL actions later by right-clicking on the Klipper icon "
@@ -382,62 +382,62 @@ msgstr ""
 "ക്ലിപ്പര്‍ ചിഹ്നത്തി മൌസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ "
 "നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
 
-#: klipper.cpp:526
+#: klipper.cpp:530
 #, kde-format
 msgid "Should Klipper start automatically when you login?"
 msgstr "താങ്കള്‍ ലോഗിന്‍ ചെയ്യുമ്പോള്‍ തന്നെ ക്ലിപ്പര്‍ തുടങ്ങണോ?"
 
-#: klipper.cpp:527
+#: klipper.cpp:531
 #, kde-format
 msgid "Automatically Start Klipper?"
 msgstr "ക്ലിപ്പര്‍ തനിയെ തുടങ്ങണോ ?"
 
-#: klipper.cpp:527
+#: klipper.cpp:531
 #, kde-format
 msgid "Start"
 msgstr "തുടങ്ങുക"
 
-#: klipper.cpp:528
+#: klipper.cpp:532
 #, kde-format
 msgid "Do Not Start"
 msgstr "തുടങ്ങണ്ട"
 
-#: klipper.cpp:855
+#: klipper.cpp:868
 #, kde-format
 msgid "Edit Contents"
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക"
 
-#: klipper.cpp:922
+#: klipper.cpp:935
 #, kde-format
 msgid "Mobile Barcode"
 msgstr ""
 
-#: klipper.cpp:970
+#: klipper.cpp:983
 #, kde-format
 msgid "Really delete entire clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം തീര്‍ച്ച്യായും കളയുക?"
 
-#: klipper.cpp:971
+#: klipper.cpp:984
 #, kde-format
 msgid "Delete clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക?"
 
-#: klipper.cpp:989 klipper.cpp:998
+#: klipper.cpp:1002 klipper.cpp:1011
 #, kde-format
 msgid "Clipboard history"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം"
 
-#: klipper.cpp:1015
+#: klipper.cpp:1028
 #, kde-format
 msgid "up"
 msgstr "മുകളില്‍"
 
-#: klipper.cpp:1022
+#: klipper.cpp:1035
 #, kde-format
 msgid "current"
 msgstr "ഇപ്പോള്‍ നിലവിലുളളത്"
 
-#: klipper.cpp:1029
+#: klipper.cpp:1042
 #, kde-format
 msgid "down"
 msgstr "താഴെ"

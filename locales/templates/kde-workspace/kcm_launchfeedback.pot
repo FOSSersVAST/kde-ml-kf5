@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-02-28 03:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -38,7 +38,7 @@ msgstr ""
 msgid "Launch Feedback"
 msgstr ""
 
-#: package/contents/ui/main.qml:56
+#: package/contents/ui/main.qml:60
 #, kde-format
 msgid "Cursor:"
 msgstr ""
@@ -48,37 +48,37 @@ msgstr ""
 msgid "No Feedback"
 msgstr ""
 
-#: package/contents/ui/main.qml:70
+#: package/contents/ui/main.qml:69
 #, kde-format
 msgid "Static"
 msgstr ""
 
-#: package/contents/ui/main.qml:78
+#: package/contents/ui/main.qml:77
 #, kde-format
 msgid "Blinking"
 msgstr ""
 
-#: package/contents/ui/main.qml:86
+#: package/contents/ui/main.qml:85
 #, kde-format
 msgid "Bouncing"
 msgstr ""
 
-#: package/contents/ui/main.qml:95
+#: package/contents/ui/main.qml:93
 #, kde-format
 msgid "Task Manager:"
 msgstr ""
 
-#: package/contents/ui/main.qml:97
+#: package/contents/ui/main.qml:95
 #, kde-format
 msgid "Enable animation"
 msgstr ""
 
-#: package/contents/ui/main.qml:106
+#: package/contents/ui/main.qml:104
 #, kde-format
 msgid "Stop animation after:"
 msgstr ""
 
-#: package/contents/ui/main.qml:115
+#: package/contents/ui/main.qml:113
 #, kde-format
 msgid "%1 sec"
 msgid_plural "%1 secs"

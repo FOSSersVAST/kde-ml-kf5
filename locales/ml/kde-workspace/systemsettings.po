@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings trunk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-11 03:58+0200\n"
+"POT-Creation-Date: 2019-04-04 03:42+0200\n"
 "PO-Revision-Date: 2009-12-30 16:23+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -57,7 +57,7 @@ msgid "(c) 2009, Ben Cooksley"
 msgstr "(c) 2009, ബെന്‍ കുക്ക്സ്ലി"
 
 #: app/main.cpp:49 classic/ClassicMode.cpp:72 icons/IconMode.cpp:62
-#: sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:266
 #, kde-format
 msgid "Ben Cooksley"
 msgstr "ബെന്‍ കുക്ക്സ്ലി"
@@ -68,13 +68,13 @@ msgid "Maintainer"
 msgstr "പരിപാലകന്‍"
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:266
+#: sidebar/SidebarMode.cpp:267
 #, kde-format
 msgid "Mathias Soeken"
 msgstr "മത്തിയാസ് സോക്കെന്‍"
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:266
+#: sidebar/SidebarMode.cpp:267
 #, kde-format
 msgid "Developer"
 msgstr "രചയിതാവു്"
@@ -167,7 +167,7 @@ msgstr "ഉപയോഗിച്ച അവതരണരീതിയുടെ ആ�
 msgid "About System Settings"
 msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങളെക്കുറിച്ചു്"
 
-#: app/ToolTips/tooltipmanager.cpp:191
+#: app/ToolTips/tooltipmanager.cpp:201
 #, fuzzy, kde-format
 #| msgid "<i>Contains 1 item</i>"
 #| msgid_plural "<i>Contains %1 items</i>"
@@ -190,7 +190,7 @@ msgstr ""
 "നിങ്ങളുടെ സിസ്റ്റം ക്രമീകരിയ്ക്കാനുള്ള കേന്ദ്ര സ്ഥാനമായ \"സിസ്റ്റം സജ്ജീകരണങ്ങളിലേയ്ക്കു്\" "
 "സ്വാഗതം."
 
-#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:253
+#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:252
 #, kde-format
 msgid "Tree View"
 msgstr "ശാഖകളായുള്ള അവതരണരീതി"
@@ -200,8 +200,8 @@ msgstr "ശാഖകളായുള്ള അവതരണരീതി"
 msgid "Provides a classic tree-based view of control modules."
 msgstr "നിയന്ത്രണ ഭാഗങ്ങളുടെ ശാഖകളായുള്ള നിത്യഹരിത അവതരണരീതി തരുന്നു."
 
-#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:264
-#: sidebar/SidebarMode.cpp:265
+#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:266
 #, kde-format
 msgid "Author"
 msgstr "രചയിതാവു്"
@@ -233,7 +233,7 @@ msgstr "ഡയലോഗ്"
 msgid "Reset all current changes to previous values"
 msgstr "ഇപ്പോള്‍ വരുത്തിയ എല്ലാ മാറ്റങ്ങളും മുമ്പുണ്ടായിരുന്ന വിലകളിലേയ്ക്കു് മാറ്റുക"
 
-#: core/ModuleView.cpp:251
+#: core/ModuleView.cpp:247
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -242,7 +242,7 @@ msgstr ""
 "ഇപ്പോള്‍ സജീവമായ മൊഡ്യൂളിന്റെ സജ്ജീകരണങ്ങള്‍ മാറിയിട്ടുണ്ടു്.\n"
 "മാറ്റങ്ങള്‍ നടപ്പിലാക്കണോ അതോ കളയണോ?"
 
-#: core/ModuleView.cpp:253
+#: core/ModuleView.cpp:249
 #, kde-format
 msgid "Apply Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
@@ -257,27 +257,27 @@ msgstr "ചിഹ്നങ്ങളായി കാണുക"
 msgid "Provides a categorized icons view of control modules."
 msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
 
-#: icons/IconMode.cpp:67
+#: icons/IconMode.cpp:66
 #, fuzzy, kde-format
 #| msgid "Apply Settings"
 msgid "All Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
 
-#: icons/IconMode.cpp:68
+#: icons/IconMode.cpp:67
 #, kde-format
 msgid "Keyboard Shortcut: %1"
 msgstr "കീബോര്‍ഡ് കുറുക്കുവഴി: %1"
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:59
+#: sidebar/package/contents/ui/CategoriesPage.qml:61
 #, fuzzy, kde-format
 #| msgctxt "Search through a list of control modules"
 #| msgid "Search"
 msgid "Search..."
 msgstr "തെരയുക"
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:102
+#: sidebar/package/contents/ui/CategoriesPage.qml:90
 #, kde-format
-msgctxt "A search yelded no results"
+msgctxt "A search yielded no results"
 msgid "No items matching your search"
 msgstr ""
 
@@ -296,38 +296,38 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:261
+#: sidebar/SidebarMode.cpp:262
 #, kde-format
 msgid "Sidebar View"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:262
+#: sidebar/SidebarMode.cpp:263
 #, fuzzy, kde-format
 #| msgid "Provides a categorized icons view of control modules."
 msgid "Provides a categorized sidebar for control modules."
 msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
 
-#: sidebar/SidebarMode.cpp:263
+#: sidebar/SidebarMode.cpp:264
 #, kde-format
 msgid "(c) 2017, Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:264
+#: sidebar/SidebarMode.cpp:265
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:474
+#: sidebar/SidebarMode.cpp:486
 #, kde-format
 msgid "Sidebar"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:515
+#: sidebar/SidebarMode.cpp:529
 #, kde-format
 msgid "Most Used"
 msgstr ""
 
-#: sidebar/ToolTips/tooltipmanager.cpp:194
+#: sidebar/ToolTips/tooltipmanager.cpp:204
 #, kde-format
 msgid "<i>Contains 1 item</i>"
 msgid_plural "<i>Contains %1 items</i>"

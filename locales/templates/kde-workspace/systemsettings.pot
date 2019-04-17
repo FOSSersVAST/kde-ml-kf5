@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-11 03:58+0200\n"
+"POT-Creation-Date: 2019-04-04 03:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -57,7 +57,7 @@ msgid "(c) 2009, Ben Cooksley"
 msgstr ""
 
 #: app/main.cpp:49 classic/ClassicMode.cpp:72 icons/IconMode.cpp:62
-#: sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:266
 #, kde-format
 msgid "Ben Cooksley"
 msgstr ""
@@ -68,13 +68,13 @@ msgid "Maintainer"
 msgstr ""
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:266
+#: sidebar/SidebarMode.cpp:267
 #, kde-format
 msgid "Mathias Soeken"
 msgstr ""
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:266
+#: sidebar/SidebarMode.cpp:267
 #, kde-format
 msgid "Developer"
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 msgid "About System Settings"
 msgstr ""
 
-#: app/ToolTips/tooltipmanager.cpp:191
+#: app/ToolTips/tooltipmanager.cpp:201
 #, kde-format
 msgid "Contains 1 item"
 msgid_plural "Contains %1 items"
@@ -182,7 +182,7 @@ msgid ""
 "system."
 msgstr ""
 
-#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:253
+#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:252
 #, kde-format
 msgid "Tree View"
 msgstr ""
@@ -192,8 +192,8 @@ msgstr ""
 msgid "Provides a classic tree-based view of control modules."
 msgstr ""
 
-#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:264
-#: sidebar/SidebarMode.cpp:265
+#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:266
 #, kde-format
 msgid "Author"
 msgstr ""
@@ -225,14 +225,14 @@ msgstr ""
 msgid "Reset all current changes to previous values"
 msgstr ""
 
-#: core/ModuleView.cpp:251
+#: core/ModuleView.cpp:247
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
 "Do you want to apply the changes or discard them?"
 msgstr ""
 
-#: core/ModuleView.cpp:253
+#: core/ModuleView.cpp:249
 #, kde-format
 msgid "Apply Settings"
 msgstr ""
@@ -247,24 +247,24 @@ msgstr ""
 msgid "Provides a categorized icons view of control modules."
 msgstr ""
 
-#: icons/IconMode.cpp:67
+#: icons/IconMode.cpp:66
 #, kde-format
 msgid "All Settings"
 msgstr ""
 
-#: icons/IconMode.cpp:68
+#: icons/IconMode.cpp:67
 #, kde-format
 msgid "Keyboard Shortcut: %1"
 msgstr ""
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:59
+#: sidebar/package/contents/ui/CategoriesPage.qml:61
 #, kde-format
 msgid "Search..."
 msgstr ""
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:102
+#: sidebar/package/contents/ui/CategoriesPage.qml:90
 #, kde-format
-msgctxt "A search yelded no results"
+msgctxt "A search yielded no results"
 msgid "No items matching your search"
 msgstr ""
 
@@ -283,37 +283,37 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:261
+#: sidebar/SidebarMode.cpp:262
 #, kde-format
 msgid "Sidebar View"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:262
+#: sidebar/SidebarMode.cpp:263
 #, kde-format
 msgid "Provides a categorized sidebar for control modules."
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:263
+#: sidebar/SidebarMode.cpp:264
 #, kde-format
 msgid "(c) 2017, Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:264
+#: sidebar/SidebarMode.cpp:265
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:474
+#: sidebar/SidebarMode.cpp:486
 #, kde-format
 msgid "Sidebar"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:515
+#: sidebar/SidebarMode.cpp:529
 #, kde-format
 msgid "Most Used"
 msgstr ""
 
-#: sidebar/ToolTips/tooltipmanager.cpp:194
+#: sidebar/ToolTips/tooltipmanager.cpp:204
 #, kde-format
 msgid "<i>Contains 1 item</i>"
 msgid_plural "<i>Contains %1 items</i>"

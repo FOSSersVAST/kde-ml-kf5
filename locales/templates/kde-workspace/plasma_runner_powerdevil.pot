@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-10 03:56+0200\n"
+"POT-Creation-Date: 2019-02-28 03:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: PowerDevilRunner.cpp:55 PowerDevilRunner.cpp:73 PowerDevilRunner.cpp:184
+#: PowerDevilRunner.cpp:55 PowerDevilRunner.cpp:73 PowerDevilRunner.cpp:194
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "suspend"
 msgstr ""
 
-#: PowerDevilRunner.cpp:56 PowerDevilRunner.cpp:80 PowerDevilRunner.cpp:194
+#: PowerDevilRunner.cpp:56 PowerDevilRunner.cpp:80 PowerDevilRunner.cpp:184
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "sleep"
@@ -112,10 +112,22 @@ msgstr ""
 
 #: PowerDevilRunner.cpp:216
 #, kde-format
-msgid "Suspend"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
 msgstr ""
 
-#: PowerDevilRunner.cpp:221
+#: PowerDevilRunner.cpp:217
 #, kde-format
+msgid "Suspend to RAM"
+msgstr ""
+
+#: PowerDevilRunner.cpp:222
+#, kde-format
+msgctxt "Suspend to disk"
 msgid "Hibernate"
+msgstr ""
+
+#: PowerDevilRunner.cpp:223
+#, kde-format
+msgid "Suspend to disk"
 msgstr ""

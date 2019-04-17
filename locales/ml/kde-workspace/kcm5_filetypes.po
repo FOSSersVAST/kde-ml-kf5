@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: filetypes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"POT-Creation-Date: 2019-02-07 03:21+0100\n"
 "PO-Revision-Date: 2010-12-22 11:16+0530\n"
 "Last-Translator: Anish A <anish.nl@gmail.com>\n"
 "Language-Team:  Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് "
@@ -38,12 +38,12 @@ msgstr ""
 msgid "Left Click Action (only for Konqueror file manager)"
 msgstr "ഇടത്-ക്ലിക്ക് ചെയ്യുമ്പോഴെടുക്കേണ്ട നടപടി (കോണ്‍ക്വറര്‍ ജാലപാലകനു മാത്രം)"
 
-#: filegroupdetails.cpp:39 filetypedetails.cpp:146
+#: filegroupdetails.cpp:39 filetypedetails.cpp:147
 #, kde-format
 msgid "Show file in embedded viewer"
 msgstr "എംബഡഡ് വ്യൂവറില്‍ ഫയല്‍ കാണിക്കുക"
 
-#: filegroupdetails.cpp:40 filetypedetails.cpp:147
+#: filegroupdetails.cpp:40 filetypedetails.cpp:148
 #, kde-format
 msgid "Show file in separate viewer"
 msgstr "വേറൊരു വ്യൂവറില്‍ ഫയല്‍ കാണിയ്ക്കുക"
@@ -63,7 +63,7 @@ msgstr ""
 "സജ്ജീകരണം ഫയലിന്റെ തരത്തിനുള്ള ക്രമീകരണത്തില്‍ 'എംബെഡ്ഡിങ്ങ്' എന്ന കിളിവാതിലില്‍ മാറ്റാം. "
 "ഡോള്‍ഫിന്‍ എല്ലായ്പോഴും പുറമെയുള്ളൊരു ദര്‍ശിനിയിലാണു് ഫയലുകള്‍ കാണിയ്ക്കുന്നതു്."
 
-#: filetypedetails.cpp:72
+#: filetypedetails.cpp:73
 #, kde-format
 msgid ""
 "This button displays the icon associated with the selected file type. Click "
@@ -72,12 +72,12 @@ msgstr ""
 "തെരഞ്ഞെടുത്ത തരത്തിലുള്ള ഫയലിനോടനുബന്ധിച്ചുള്ള ചിഹ്നമാണ് ഈ ബട്ടണ്‍ ലഭ്യമാക്കുന്നത്. മറ്റൊരു ചിഹ്നം "
 "തെരഞ്ഞെടുക്കുന്നതിനായി ഇതില്‍ ക്ലിക്ക് ചെയ്യുക."
 
-#: filetypedetails.cpp:78
+#: filetypedetails.cpp:79
 #, kde-format
 msgid "Filename Patterns"
 msgstr "ഫയല്‍നാമത്തിന്റെ മാതൃകകള്‍"
 
-#: filetypedetails.cpp:90
+#: filetypedetails.cpp:91
 #, kde-format
 msgid ""
 "This box contains a list of patterns that can be used to identify files of "
@@ -89,32 +89,32 @@ msgstr ""
 "ലഭ്യമാകുന്നു. ഉദാഹരണത്തിനു്, *.txt എന്നത് 'text/plain' തരത്തിലുള്ള ഫയലാകുന്നു; '.txt' എന്ന് "
 "അവസാനിക്കുന്ന ഫയലുകള്‍ പ്ലെയിന്‍ ടെക്സ്റ്റ് ഫയലുകള്‍ ആകുന്നു."
 
-#: filetypedetails.cpp:98 filetypesview.cpp:119 kservicelistwidget.cpp:120
+#: filetypedetails.cpp:99 filetypesview.cpp:119 kservicelistwidget.cpp:120
 #, kde-format
 msgid "Add..."
 msgstr "ചേര്‍ക്കുക..."
 
-#: filetypedetails.cpp:104
+#: filetypedetails.cpp:105
 #, kde-format
 msgid "Add a new pattern for the selected file type."
 msgstr "തെരഞ്ഞെടുത്ത തരത്തിലുള്ള ഫയലിനു് ഒരു പുതിയ മാതൃക ചേര്‍ക്കുക."
 
-#: filetypedetails.cpp:106 kservicelistwidget.cpp:136
+#: filetypedetails.cpp:107 kservicelistwidget.cpp:136
 #, kde-format
 msgid "Remove"
 msgstr "നീക്കം ചെയ്യുക"
 
-#: filetypedetails.cpp:112
+#: filetypedetails.cpp:113
 #, kde-format
 msgid "Remove the selected filename pattern."
 msgstr "തെരഞ്ഞെടുത്ത ഫയല്‍നാമത്തിന്റെ മാതൃക നീക്കം ചെയ്യുക."
 
-#: filetypedetails.cpp:124
+#: filetypedetails.cpp:125
 #, kde-format
 msgid "Description:"
 msgstr "വിവരണം:"
 
-#: filetypedetails.cpp:128
+#: filetypedetails.cpp:129
 #, kde-format
 msgid ""
 "You can enter a short description for files of the selected file type (e.g. "
@@ -125,17 +125,17 @@ msgstr ""
 "ഡയറക്ടറിയുടെ ഉള്ളടക്കം ലഭ്യമാക്കുന്നതിനായി, കോണ്‍ക്വറര്‍ പോലുള്ള പ്രയോഗങ്ങള്‍ ഈ വിവരണം "
 "ഉപയോഗിക്കുന്നു."
 
-#: filetypedetails.cpp:141
+#: filetypedetails.cpp:142
 #, kde-format
 msgid "Left Click Action in Konqueror"
 msgstr "കോണ്‍ക്വററിലെ ഇടത് ക്ലിക്ക് ചെയ്തുള്ള പ്രവര്‍ത്തി"
 
-#: filetypedetails.cpp:150
+#: filetypedetails.cpp:151
 #, kde-format
 msgid "Ask whether to save to disk instead (only for Konqueror browser)"
 msgstr "പകരം ഡിസ്കിലേക്ക് സംരക്ഷിക്കണമോ എന്നു ചോദിയ്ക്കുക (കോണ്‍ക്വറര്‍ ബ്രൌസറിനു് മാത്രം)"
 
-#: filetypedetails.cpp:165
+#: filetypedetails.cpp:166
 #, kde-format
 msgid ""
 "Here you can configure what the Konqueror file manager will do when you "
@@ -153,32 +153,32 @@ msgstr ""
 "പിഎന്‍ജി എന്നാണെങ്കില്‍ 'ചിത്രം'. ഡോള്‍ഫിന്‍ എല്ലായ്പോഴും പുറമെയുള്ളൊരു ജാലകത്തിലാണു്ഫയലുകള്‍ "
 "കാണിയ്ക്കുന്നതു്."
 
-#: filetypedetails.cpp:177
+#: filetypedetails.cpp:178
 #, kde-format
 msgid "&General"
 msgstr "&സാധാരണ"
 
-#: filetypedetails.cpp:178
+#: filetypedetails.cpp:179
 #, kde-format
 msgid "&Embedding"
 msgstr "&എംബഡ്ഡിങ്"
 
-#: filetypedetails.cpp:216
+#: filetypedetails.cpp:217
 #, kde-format
 msgid "Add New Extension"
 msgstr "പുതിയ എക്സ്റ്റെന്‍ഷന്‍ ചേര്‍ക്കുക"
 
-#: filetypedetails.cpp:216
+#: filetypedetails.cpp:217
 #, kde-format
 msgid "Extension:"
 msgstr "എക്സ്റ്റെന്‍ഷന്‍:"
 
-#: filetypedetails.cpp:328
+#: filetypedetails.cpp:329
 #, kde-format
 msgid "File type %1"
 msgstr "%1 എന്ന തരത്തിലുള്ള ഫയല്‍"
 
-#: filetypedetails.cpp:336
+#: filetypedetails.cpp:337
 #, kde-format
 msgid "Use settings for '%1' group"
 msgstr "'%1' ഗ്രൂപ്പിനുള്ള ക്രമികരണങ്ങള്‍ ഉപയോഗിക്കുക"
@@ -219,8 +219,9 @@ msgstr ""
 "നേരിട്ട് മൈം തരങ്ങള്‍ കണ്ടെത്തും.</p>"
 
 #: filetypesview.cpp:89
-#, kde-format
-msgid "Find file type or filename pattern"
+#, fuzzy, kde-format
+#| msgid "Find file type or filename pattern"
+msgid "Search for file type or filename pattern..."
 msgstr "ഈ തരത്തിലുള്ളതോ താഴെ പറയുന്ന രീതിയില്‍ പേരുള്ളതോ ആയ ഫയലുകള്‍ കണ്ടുപിടിയ്ക്കുക"
 
 #: filetypesview.cpp:95

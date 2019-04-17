@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2019-03-15 03:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -22,37 +22,39 @@ msgstr ""
 msgid "General"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:61
+#: contents/ui/ConfigGeneral.qml:50
 #, kde-format
-msgctxt "Heading for list of actions (leave, lock, shutdown, ...)"
-msgid "Actions"
+msgctxt ""
+"Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
+msgid "Show actions:"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:68
+#: contents/ui/ConfigGeneral.qml:51
 #, kde-format
 msgid "Leave"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:74 contents/ui/data.js:4
+#: contents/ui/ConfigGeneral.qml:57 contents/ui/data.js:4
 #, kde-format
 msgid "Lock"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:79
+#: contents/ui/ConfigGeneral.qml:62
 #, kde-format
 msgid "Switch User"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:84 contents/ui/data.js:26
+#: contents/ui/ConfigGeneral.qml:67 contents/ui/data.js:26
 #: contents/ui/lockout.qml:125
 #, kde-format
 msgid "Hibernate"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:89 contents/ui/data.js:20
+#: contents/ui/ConfigGeneral.qml:72 contents/ui/data.js:20
 #: contents/ui/lockout.qml:141
 #, kde-format
-msgid "Suspend"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
 msgstr ""
 
 #: contents/ui/data.js:5
@@ -77,7 +79,7 @@ msgstr ""
 
 #: contents/ui/data.js:16
 #, kde-format
-msgid "Logout, turn off or restart the computer"
+msgid "Log out, turn off or restart the computer"
 msgstr ""
 
 #: contents/ui/data.js:21

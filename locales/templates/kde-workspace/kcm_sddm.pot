@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sddm-kcm\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:06+0100\n"
+"POT-Creation-Date: 2019-04-09 03:48+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -67,17 +67,17 @@ msgstr ""
 msgid "Unable to install theme"
 msgstr ""
 
-#: src/configwidgets/selectimagebutton.cpp:42
+#: src/configwidgets/selectimagebutton.cpp:43
 #, kde-format
 msgid "Load from file..."
 msgstr ""
 
-#: src/configwidgets/selectimagebutton.cpp:43
+#: src/configwidgets/selectimagebutton.cpp:44
 #, kde-format
 msgid "Clear Image"
 msgstr ""
 
-#: src/configwidgets/selectimagebutton.cpp:76
+#: src/configwidgets/selectimagebutton.cpp:77
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Image"
@@ -142,7 +142,7 @@ msgctxt "%1 is the name of a session"
 msgid "%1 (Wayland)"
 msgstr ""
 
-#: src/themeconfig.cpp:190
+#: src/themeconfig.cpp:192
 #, kde-format
 msgid "Download New SDDM Themes"
 msgstr ""
@@ -224,38 +224,32 @@ msgstr ""
 msgid "Reboot Command:"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, customizeBox)
-#: src/ui/themeconfig.ui:53
-#, kde-format
-msgid "Customize theme"
-msgstr ""
-
 #. i18n: ectx: property (text), widget (SelectImageButton, selectBackgroundButton)
-#: src/ui/themeconfig.ui:80
+#: src/ui/themeconfig.ui:101
 #, kde-format
 msgid "..."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/ui/themeconfig.ui:87
+#: src/ui/themeconfig.ui:108
 #, kde-format
 msgid "Background:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, removeThemeButton)
-#: src/ui/themeconfig.ui:119
+#: src/ui/themeconfig.ui:156
 #, kde-format
 msgid "Remove"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, installFromFileButton)
-#: src/ui/themeconfig.ui:144
+#: src/ui/themeconfig.ui:180
 #, kde-format
 msgid "Install From File..."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, getNewButton)
-#: src/ui/themeconfig.ui:156
+#: src/ui/themeconfig.ui:191
 #, kde-format
 msgid "Get New Login Screens..."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmlocale\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-04-16 03:41+0200\n"
 "PO-Revision-Date: 2009-07-17 10:44-0700\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -51,19 +51,19 @@ msgstr ""
 msgid "Format Settings Changed"
 msgstr ""
 
-#: kcmformats.cpp:331
+#: kcmformats.cpp:341
 #, fuzzy, kde-format
 #| msgid "Short date format:"
 msgid "%1 (long format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
-#: kcmformats.cpp:332
+#: kcmformats.cpp:342
 #, fuzzy, kde-format
 #| msgid "Short date format:"
 msgid "%1 (short format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
-#: kcmformats.cpp:337
+#: kcmformats.cpp:347
 #, fuzzy, kde-format
 #| msgctxt "The Imperial System"
 #| msgid "Imperial"
@@ -71,7 +71,7 @@ msgctxt "Measurement combobox"
 msgid "Imperial UK"
 msgstr "ഇംപീരിയല്‍"
 
-#: kcmformats.cpp:339
+#: kcmformats.cpp:349
 #, fuzzy, kde-format
 #| msgctxt "The Imperial System"
 #| msgid "Imperial"
@@ -79,7 +79,7 @@ msgctxt "Measurement combobox"
 msgid "Imperial US"
 msgstr "ഇംപീരിയല്‍"
 
-#: kcmformats.cpp:341
+#: kcmformats.cpp:351
 #, fuzzy, kde-format
 #| msgctxt "The Metric System"
 #| msgid "Metric"

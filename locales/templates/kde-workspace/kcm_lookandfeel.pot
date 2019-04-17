@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"POT-Creation-Date: 2019-02-14 03:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #: kcm.cpp:76
 #, kde-format
-msgid "Configure Look and Feel details"
+msgid "Look and Feel"
 msgstr ""
 
 #: kcm.cpp:78 lnftool.cpp:43
@@ -39,16 +39,16 @@ msgstr ""
 
 #: kcm.cpp:112
 #, kde-format
-msgid "Download New Look And Feel Packages"
+msgid "Download New Look and Feel Themes"
 msgstr ""
 
-#: kcm.cpp:570
+#: kcm.cpp:572
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr ""
 
-#: kcm.cpp:571
+#: kcm.cpp:573
 #, kde-format
 msgid "Cursor Settings Changed"
 msgstr ""
@@ -95,7 +95,7 @@ msgstr ""
 
 #: package/contents/ui/main.qml:28
 #, kde-format
-msgid "This module lets you configure the look and feel theme."
+msgid "This module lets you choose the Look and Feel theme."
 msgstr ""
 
 #: package/contents/ui/main.qml:47
@@ -112,7 +112,7 @@ msgstr ""
 
 #: package/contents/ui/main.qml:75
 #, kde-format
-msgid "Use Desktop Layout from theme"
+msgid "Use desktop layout from theme"
 msgstr ""
 
 #: package/contents/ui/main.qml:82

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: milou\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2018-11-12 04:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Drag categories to change the order in which results appear"
 msgstr ""
 
-#: package/contents/ui/SearchField.qml:54
+#: package/contents/ui/SearchField.qml:43
 #, kde-format
-msgid "Search"
+msgid "Search..."
 msgstr ""

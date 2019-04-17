@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2019-02-09 03:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,80 +27,85 @@ msgstr ""
 msgid "Entries"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:52
+#: package/contents/ui/ConfigEntries.qml:71
 #, kde-format
 msgid "Always show all entries"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:128
+#: package/contents/ui/ConfigEntries.qml:145
 #, kde-format
 msgctxt "Name of the system tray entry"
 msgid "Entry"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:155
+#: package/contents/ui/ConfigEntries.qml:172
 #, kde-format
 msgid "Visibility"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:209
+#: package/contents/ui/ConfigEntries.qml:226
 #, kde-format
 msgid "Auto"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:209
+#: package/contents/ui/ConfigEntries.qml:226
 #, kde-format
 msgid "Shown"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:209
+#: package/contents/ui/ConfigEntries.qml:226
 #, kde-format
 msgid "Hidden"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:215
+#: package/contents/ui/ConfigEntries.qml:232
 #, kde-format
 msgid "Keyboard Shortcut"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:56
+#: package/contents/ui/ConfigGeneral.qml:60
 #, kde-format
 msgid "Categories"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:67
+#: package/contents/ui/ConfigGeneral.qml:65
 #, kde-format
 msgid "Application Status"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:71
+#: package/contents/ui/ConfigGeneral.qml:69
 #, kde-format
 msgid "Communications"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:75
+#: package/contents/ui/ConfigGeneral.qml:73
 #, kde-format
 msgid "System Services"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:79
+#: package/contents/ui/ConfigGeneral.qml:77
 #, kde-format
 msgid "Hardware Control"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:83
+#: package/contents/ui/ConfigGeneral.qml:81
 #, kde-format
 msgid "Miscellaneous"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:93
+#: package/contents/ui/ConfigGeneral.qml:87
 #, kde-format
 msgid "Extra Items"
 msgstr ""
 
-#: package/contents/ui/ExpandedRepresentation.qml:99
+#: package/contents/ui/ExpandedRepresentation.qml:50
 #, kde-format
-msgid "Status & Notifications"
+msgid "Keep Open"
+msgstr ""
+
+#: package/contents/ui/ExpandedRepresentation.qml:100
+#, kde-format
+msgid "Status and Notifications"
 msgstr ""
 
 #: package/contents/ui/ExpanderArrow.qml:36
@@ -113,7 +118,7 @@ msgstr ""
 msgid "Show hidden icons"
 msgstr ""
 
-#: systemtray.cpp:447
+#: systemtray.cpp:449
 #, kde-format
 msgid " (Automatic load)"
 msgstr ""

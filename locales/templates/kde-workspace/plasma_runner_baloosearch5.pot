@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-28 03:51+0200\n"
+"POT-Creation-Date: 2018-11-16 03:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -22,34 +22,19 @@ msgstr ""
 msgid "Open Containing Folder"
 msgstr ""
 
-#: baloosearchrunner.cpp:120
+#: baloosearchrunner.cpp:123
 #, kde-format
 msgid "Audio"
 msgstr ""
 
-#: baloosearchrunner.cpp:121
+#: baloosearchrunner.cpp:124
 #, kde-format
 msgid "Image"
 msgstr ""
 
-#: baloosearchrunner.cpp:122
-#, kde-format
-msgid "Document"
-msgstr ""
-
-#: baloosearchrunner.cpp:123
-#, kde-format
-msgid "Video"
-msgstr ""
-
-#: baloosearchrunner.cpp:124
-#, kde-format
-msgid "Folder"
-msgstr ""
-
 #: baloosearchrunner.cpp:125
 #, kde-format
-msgid "Archive"
+msgid "Video"
 msgstr ""
 
 #: baloosearchrunner.cpp:126
@@ -60,4 +45,19 @@ msgstr ""
 #: baloosearchrunner.cpp:127
 #, kde-format
 msgid "Presentation"
+msgstr ""
+
+#: baloosearchrunner.cpp:128
+#, kde-format
+msgid "Folder"
+msgstr ""
+
+#: baloosearchrunner.cpp:129
+#, kde-format
+msgid "Document"
+msgstr ""
+
+#: baloosearchrunner.cpp:130
+#, kde-format
+msgid "Archive"
 msgstr ""

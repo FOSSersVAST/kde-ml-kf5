@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-02 04:01+0100\n"
+"POT-Creation-Date: 2019-04-17 03:45+0200\n"
 "PO-Revision-Date: 2008-11-27 16:14-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -29,7 +29,7 @@ msgid "Location"
 msgstr "സ്ഥാനം"
 
 #: package/contents/config/config.qml:36
-#: package/contents/ui/ConfigIcons.qml:222
+#: package/contents/ui/ConfigIcons.qml:223
 #: package/contents/ui/FolderViewLayer.qml:422
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
@@ -107,15 +107,15 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 msgid "Deselect All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കാത്തതാക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:77
+#: package/contents/ui/ConfigIcons.qml:78
 msgid "Panel button:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:83
+#: package/contents/ui/ConfigIcons.qml:84
 msgid "Use a custom icon"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:117
+#: package/contents/ui/ConfigIcons.qml:118
 #, fuzzy
 #| msgctxt "@title:menu in Copy To or Move To submenu"
 #| msgid "Browse..."
@@ -123,61 +123,61 @@ msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr "പരതുക..."
 
-#: package/contents/ui/ConfigIcons.qml:123
+#: package/contents/ui/ConfigIcons.qml:124
 #, fuzzy
 #| msgid "Sort Icons"
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr "ചിഹ്നങ്ങള്‍ അടുക്കി വയ്ക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:142
+#: package/contents/ui/ConfigIcons.qml:143
 #, fuzzy
 #| msgid "Icon Arrangement"
 msgid "Arrangement:"
 msgstr "ചിഹ്നങ്ങളുടെ അടുക്കിവയ്ക്കല്‍"
 
-#: package/contents/ui/ConfigIcons.qml:144
+#: package/contents/ui/ConfigIcons.qml:145
 #: plugins/folder/viewpropertiesmenu.cpp:34
 #, kde-format
 msgid "Rows"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:144
+#: package/contents/ui/ConfigIcons.qml:145
 #: plugins/folder/viewpropertiesmenu.cpp:38
 #, kde-format
 msgid "Columns"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:151
+#: package/contents/ui/ConfigIcons.qml:152
 #, fuzzy
 #| msgid "Align to Grid"
 msgid "Align Left"
 msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
 
-#: package/contents/ui/ConfigIcons.qml:151
+#: package/contents/ui/ConfigIcons.qml:152
 #, fuzzy
 #| msgid "Align to Grid"
 msgid "Align Right"
 msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
 
-#: package/contents/ui/ConfigIcons.qml:166
+#: package/contents/ui/ConfigIcons.qml:167
 #, fuzzy
 #| msgctxt "Icons on the desktop"
 #| msgid "Lock in Place"
 msgid "Lock in place"
 msgstr "സ്ഥാനത്തു് പൂട്ടുക"
 
-#: package/contents/ui/ConfigIcons.qml:179
+#: package/contents/ui/ConfigIcons.qml:180
 #, fuzzy
 #| msgid "Sort icons:"
 msgid "Sorting:"
 msgstr "ചിഹ്നങ്ങള്‍ തരം തിരിയ്ക്കുക:"
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 msgid "Manual"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:62
 #, fuzzy, kde-format
 #| msgctxt "Sort icons"
@@ -185,7 +185,7 @@ msgstr ""
 msgid "Name"
 msgstr "പേരനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:66
 #, fuzzy, kde-format
 #| msgctxt "Sort icons"
@@ -193,7 +193,7 @@ msgstr "പേരനുസരിച്ചു്"
 msgid "Size"
 msgstr "വലിപ്പമനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:70
 #, fuzzy, kde-format
 #| msgctxt "Sort icons"
@@ -201,7 +201,7 @@ msgstr "വലിപ്പമനുസരിച്ചു്"
 msgid "Type"
 msgstr "തരമനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:187
+#: package/contents/ui/ConfigIcons.qml:188
 #: plugins/folder/viewpropertiesmenu.cpp:74
 #, fuzzy, kde-format
 #| msgctxt "Sort icons"
@@ -209,48 +209,67 @@ msgstr "തരമനുസരിച്ചു്"
 msgid "Date"
 msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:198
+#: package/contents/ui/ConfigIcons.qml:199
 #: plugins/folder/viewpropertiesmenu.cpp:79
 #, kde-format
 msgid "Descending"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:206
+#: package/contents/ui/ConfigIcons.qml:207
 #, fuzzy
 #| msgctxt "Sort icons"
 #| msgid "Folders First"
 msgid "Folders first"
 msgstr "അറകളാദ്യം"
 
-#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/ConfigIcons.qml:221
 msgctxt "whether to use icon or list view"
 msgid "View mode:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:222
+#: package/contents/ui/ConfigIcons.qml:223
 msgid "List"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:231
+#: package/contents/ui/ConfigIcons.qml:234
 #, fuzzy
-#| msgctxt "Sort icons"
-#| msgid "By Size"
-msgid "Size:"
-msgstr "വലിപ്പമനുസരിച്ചു്"
+#| msgid "Icon size:"
+msgid "Icon size:"
+msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
-#: package/contents/ui/ConfigIcons.qml:246
+#: package/contents/ui/ConfigIcons.qml:249
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Small"
 msgstr "ചെറുതു്"
 
-#: package/contents/ui/ConfigIcons.qml:255
+#: package/contents/ui/ConfigIcons.qml:258
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Large"
 msgstr "വലുതു്"
 
-#: package/contents/ui/ConfigIcons.qml:263
+#: package/contents/ui/ConfigIcons.qml:266
+#, fuzzy
+#| msgid "Label:"
+msgid "Label width:"
+msgstr "പേരു്:"
+
+#: package/contents/ui/ConfigIcons.qml:269
+msgid "Narrow"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:270
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Medium"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:271
+msgid "Wide"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:279
 #, fuzzy
 #| msgctxt "Inserted as %2 in the message below."
 #| msgid "1 file"
@@ -258,31 +277,31 @@ msgstr "വലുതു്"
 msgid "Text lines:"
 msgstr "1 ഫയല്‍"
 
-#: package/contents/ui/ConfigIcons.qml:279
+#: package/contents/ui/ConfigIcons.qml:295
 msgid "Features:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:281
+#: package/contents/ui/ConfigIcons.qml:297
 msgid "Tooltips"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:288
+#: package/contents/ui/ConfigIcons.qml:304
 #, fuzzy
 #| msgid "Select All"
 msgid "Selection markers"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:295
+#: package/contents/ui/ConfigIcons.qml:311
 msgid "Folder preview popups"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:301
+#: package/contents/ui/ConfigIcons.qml:317
 #, fuzzy
 #| msgid "Show previews"
 msgid "Preview thumbnails"
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:307
+#: package/contents/ui/ConfigIcons.qml:323
 msgid "More Preview Options..."
 msgstr ""
 
@@ -341,23 +360,19 @@ msgstr ""
 msgid "Enter custom title here"
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:42
-#, fuzzy
-#| msgid "Desktop Folder"
-msgid "Desktop Layout"
-msgstr "പണിയിട അറ"
+#: package/contents/ui/ConfigTweaks.qml:43
+msgid ""
+"With the Desktop Toolbox hidden, right-click on the desktop and choose "
+"'Configure Desktop...' to access this configuration window in the future"
+msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:51
+#: package/contents/ui/ConfigTweaks.qml:54
 #, fuzzy
 #| msgid "Show the Desktop folder"
 msgid "Show the desktop toolbox"
 msgstr "പണിയിട അറ കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigTweaks.qml:59
-msgid "Widget Handling"
-msgstr ""
-
-#: package/contents/ui/ConfigTweaks.qml:69
+#: package/contents/ui/ConfigTweaks.qml:72
 msgid "Press and hold widgets to move them and reveal their handles"
 msgstr ""
 
@@ -375,22 +390,22 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/main.qml:376
+#: package/contents/ui/main.qml:382
 msgid "Widgets unlocked"
 msgstr ""
 
-#: package/contents/ui/main.qml:377
+#: package/contents/ui/main.qml:383
 msgid "You can press and hold widgets to move them and reveal their handles."
 msgstr ""
 
-#: package/contents/ui/main.qml:378
+#: package/contents/ui/main.qml:384
 msgid "Got it"
 msgstr ""
 
-#: package/contents/ui/main.qml:591
+#: package/contents/ui/main.qml:597
 #, fuzzy
 #| msgid "&Refresh Desktop"
-msgid "Configure Desktop"
+msgid "Configure Desktop..."
 msgstr "പണിയിടം &പുതുക്കുക"
 
 #: plugins/folder/directorypicker.cpp:45
@@ -399,39 +414,40 @@ msgstr "പണിയിടം &പുതുക്കുക"
 msgid "Select Folder"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:397
+#: plugins/folder/foldermodel.cpp:402
 #, kde-format
 msgid "&Refresh Desktop"
 msgstr "പണിയിടം &പുതുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:397 plugins/folder/foldermodel.cpp:1592
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1604
 #, kde-format
 msgid "&Refresh View"
 msgstr "കാഴ്ച &പുതുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1599
-#, kde-format
-msgid "&Empty Trash Bin"
+#: plugins/folder/foldermodel.cpp:1611
+#, fuzzy, kde-format
+#| msgid "&Empty Trash Bin"
+msgid "&Empty Trash"
 msgstr "ചവറ്റുകുട്ട &കാലിയാക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1602
+#: plugins/folder/foldermodel.cpp:1614
 #, fuzzy, kde-format
 #| msgid "&Restore"
 msgctxt "Restore from trash"
 msgid "Restore"
 msgstr "&വീണ്ടെടുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1607
+#: plugins/folder/foldermodel.cpp:1619
 #, kde-format
 msgid "&Open"
 msgstr "&തുറക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1723
+#: plugins/folder/foldermodel.cpp:1735
 #, kde-format
 msgid "&Paste"
 msgstr "&ഒട്ടിക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1830
+#: plugins/folder/foldermodel.cpp:1843
 #, kde-format
 msgid "&Properties"
 msgstr "&ഗുണഗണങ്ങള്‍"
@@ -496,11 +512,6 @@ msgstr ""
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
-msgid "Medium"
-msgstr ""
-
-#: plugins/folder/viewpropertiesmenu.cpp:88
-#, kde-format
 msgid "Huge"
 msgstr ""
 
@@ -514,6 +525,17 @@ msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര�
 #, kde-format
 msgid "Locked"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Sort icons"
+#~| msgid "By Size"
+#~ msgid "Size:"
+#~ msgstr "വലിപ്പമനുസരിച്ചു്"
+
+#, fuzzy
+#~| msgid "Desktop Folder"
+#~ msgid "Desktop Layout"
+#~ msgstr "പണിയിട അറ"
 
 #, fuzzy
 #~| msgid "Arrange icons:"
@@ -890,9 +912,6 @@ msgstr ""
 #~ "നിങ്ങള്‍ക്കു് ചിഹ്നങ്ങള്‍ ഇടതു് വശത്തു് തുടങ്ങി മുകളില്‍ നിന്നും താഴെ വരെയാണോ അല്ലെങ്കില്‍ മുകളില്‍ "
 #~ "തുടങ്ങി ഇടതു് വശത്തു് നിന്നും വലതു് വശത്തു് വരെയാണോ വേണ്ടതെന്നു് തെരഞ്ഞെടുക്കാന്‍ ഈ നിയന്ത്രണം "
 #~ "ഉപയോഗിയ്ക്കുക."
-
-#~ msgid "Label:"
-#~ msgstr "പേരു്:"
 
 #~ msgid "Advanced Options"
 #~ msgstr "വിശദമായ ഐച്ഛികങ്ങള്‍"

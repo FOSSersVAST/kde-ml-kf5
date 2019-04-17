@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-28 03:54+0200\n"
+"POT-Creation-Date: 2019-02-15 03:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Hide menu bar"
 msgstr ""
 
-#: ksysguard.cpp:179 ksysguard.cpp:570
+#: ksysguard.cpp:179 ksysguard.cpp:571
 #, kde-format
 msgid "System Monitor"
 msgstr ""
@@ -190,31 +190,31 @@ msgstr ""
 msgid "Tab &Properties"
 msgstr ""
 
-#: ksysguard.cpp:385
+#: ksysguard.cpp:386
 #, kde-format
 msgid "1 process"
 msgid_plural "%1 processes"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ksysguard.cpp:466
+#: ksysguard.cpp:467
 #, kde-format
 msgid "CPU: %1%"
 msgstr ""
 
-#: ksysguard.cpp:466
+#: ksysguard.cpp:467
 #, kde-format
 msgctxt "This is the shorter version of CPU: %1%"
 msgid "%1%"
 msgstr ""
 
-#: ksysguard.cpp:485
+#: ksysguard.cpp:486
 #, kde-format
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Memory: %1 / %2"
 msgstr ""
 
-#: ksysguard.cpp:487
+#: ksysguard.cpp:488
 #, kde-format
 msgctxt ""
 "Arguments are formatted byte sizes (used/total) This should be a shorter "
@@ -222,7 +222,7 @@ msgctxt ""
 msgid "Mem: %1 / %2"
 msgstr ""
 
-#: ksysguard.cpp:489
+#: ksysguard.cpp:490
 #, kde-format
 msgctxt ""
 "Arguments is formatted byte sizes (used) This should be a shorter version of "
@@ -230,89 +230,89 @@ msgctxt ""
 msgid "Mem: %1"
 msgstr ""
 
-#: ksysguard.cpp:517
+#: ksysguard.cpp:518
 #, kde-format
 msgid " No swap space available "
 msgstr ""
 
-#: ksysguard.cpp:521
+#: ksysguard.cpp:522
 #, kde-format
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Swap: %1 / %2"
 msgstr ""
 
-#: ksysguard.cpp:523
+#: ksysguard.cpp:524
 #, kde-format
 msgctxt "Arguments is formatted byte sizes (used)"
 msgid "Swap: %1"
 msgstr ""
 
-#: ksysguard.cpp:572
+#: ksysguard.cpp:573
 #, kde-format
 msgid "(c) 1996-2016 The KDE System Monitor Developers"
 msgstr ""
 
-#: ksysguard.cpp:574
+#: ksysguard.cpp:575
 #, kde-format
 msgid "John Tapsell"
 msgstr ""
 
-#: ksysguard.cpp:574
+#: ksysguard.cpp:575
 #, kde-format
 msgid "Current Maintainer"
 msgstr ""
 
-#: ksysguard.cpp:575
+#: ksysguard.cpp:576
 #, kde-format
 msgid "Chris Schlaeger"
 msgstr ""
 
-#: ksysguard.cpp:575
+#: ksysguard.cpp:576
 #, kde-format
 msgid "Previous Maintainer"
 msgstr ""
 
-#: ksysguard.cpp:576
+#: ksysguard.cpp:577
 #, kde-format
 msgid "Greg Martyn"
 msgstr ""
 
-#: ksysguard.cpp:577
+#: ksysguard.cpp:578
 #, kde-format
 msgid "Tobias Koenig"
 msgstr ""
 
-#: ksysguard.cpp:578
+#: ksysguard.cpp:579
 #, kde-format
 msgid "Nicolas Leclercq"
 msgstr ""
 
-#: ksysguard.cpp:579
+#: ksysguard.cpp:580
 #, kde-format
 msgid "Alex Sanda"
 msgstr ""
 
-#: ksysguard.cpp:580
+#: ksysguard.cpp:581
 #, kde-format
 msgid "Bernd Johannes Wuebben"
 msgstr ""
 
-#: ksysguard.cpp:581
+#: ksysguard.cpp:582
 #, kde-format
 msgid "Ralf Mueller"
 msgstr ""
 
-#: ksysguard.cpp:582
+#: ksysguard.cpp:583
 #, kde-format
 msgid "Hamish Rodda"
 msgstr ""
 
-#: ksysguard.cpp:583
+#: ksysguard.cpp:584
 #, kde-format
 msgid "Torsten Kasch"
 msgstr ""
 
-#: ksysguard.cpp:583
+#: ksysguard.cpp:584
 #, kde-format
 msgid ""
 "Solaris Support\n"
@@ -320,7 +320,7 @@ msgid ""
 "module of William LeFebvre's \"top\" utility."
 msgstr ""
 
-#: ksysguard.cpp:592
+#: ksysguard.cpp:593
 #, kde-format
 msgid "Optional worksheet files to load"
 msgstr ""
@@ -1112,7 +1112,7 @@ msgstr ""
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, m_timerInterval)
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:59
-#: TimerSettings.cpp:57 WorkSheetSettings.cpp:111
+#: WorkSheetSettings.cpp:111
 #, kde-format
 msgid " sec"
 msgstr ""
@@ -1199,26 +1199,6 @@ msgstr ""
 #: SystemLoad2.sgrd:14
 #, kde-format
 msgid "Sending"
-msgstr ""
-
-#: TimerSettings.cpp:37
-#, kde-format
-msgid "Timer Settings"
-msgstr ""
-
-#: TimerSettings.cpp:47
-#, kde-format
-msgid "Use update interval of worksheet"
-msgstr ""
-
-#: TimerSettings.cpp:50 WorkSheetSettings.cpp:104
-#, kde-format
-msgid "Update interval:"
-msgstr ""
-
-#: TimerSettings.cpp:60 WorkSheetSettings.cpp:117
-#, kde-format
-msgid "All displays of the sheet are updated at the rate specified here."
 msgstr ""
 
 #: WorkSheet.cpp:87
@@ -1321,6 +1301,16 @@ msgstr ""
 #: WorkSheetSettings.cpp:102
 #, kde-format
 msgid "Enter the number of columns the sheet should have."
+msgstr ""
+
+#: WorkSheetSettings.cpp:104
+#, kde-format
+msgid "Update interval:"
+msgstr ""
+
+#: WorkSheetSettings.cpp:117
+#, kde-format
+msgid "All displays of the sheet are updated at the rate specified here."
 msgstr ""
 
 #: WorkSheetSettings.cpp:118

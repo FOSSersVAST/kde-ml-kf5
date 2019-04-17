@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkclock trunk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-01-12 03:14+0100\n"
 "PO-Revision-Date: 2010-05-31 17:24+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -80,7 +80,7 @@ msgstr "നിലവിലുള്ള പ്രാദേശിക സമയമ�
 #. i18n: ectx: property (placeholderText), widget (KTreeWidgetSearchLine, tzonesearch)
 #: dateandtime.ui:161
 #, kde-format
-msgid "Search"
+msgid "Search..."
 msgstr ""
 
 #: dtime.cpp:81

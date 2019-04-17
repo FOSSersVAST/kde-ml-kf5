@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-gtk-config\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-30 03:53+0100\n"
+"POT-Creation-Date: 2019-03-18 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -124,80 +124,75 @@ msgstr ""
 
 #: src/gtkconfigkcmodule.cpp:65
 #, kde-format
-msgid "KDE GTK Config"
+msgid "GTK Application Style"
 msgstr ""
 
 #: src/gtkconfigkcmodule.cpp:66
 #, kde-format
-msgid "Configure your GTK Applications"
-msgstr ""
-
-#: src/gtkconfigkcmodule.cpp:68
-#, kde-format
 msgid "Copyright 2011 José Antonio Sánchez Reynaga"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:69
+#: src/gtkconfigkcmodule.cpp:67
 #, kde-format
 msgid "José Antonio Sánchez Reynaga (antonioJASR)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:69
+#: src/gtkconfigkcmodule.cpp:67
 #, kde-format
 msgid "Main Developer"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:70
+#: src/gtkconfigkcmodule.cpp:68
 #, kde-format
 msgid "Aleix Pol i Gonzalez"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:70
+#: src/gtkconfigkcmodule.cpp:68
 #, kde-format
 msgid "Feature development. Previews, code refactoring."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:71
+#: src/gtkconfigkcmodule.cpp:69
 #, kde-format
 msgid "Manuel Tortosa (manutortosa)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:71
+#: src/gtkconfigkcmodule.cpp:69
 #, kde-format
 msgid "Ideas, tester, internationalization"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:72
+#: src/gtkconfigkcmodule.cpp:70
 #, kde-format
 msgid "Adrián Chaves Fernández (Gallaecio)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:72
+#: src/gtkconfigkcmodule.cpp:70
 #, kde-format
 msgid "Internationalization"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:142
+#: src/gtkconfigkcmodule.cpp:140
 #, kde-format
 msgid "Download GTK2 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:143
+#: src/gtkconfigkcmodule.cpp:141
 #, kde-format
 msgid "Download GTK3 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:144
+#: src/gtkconfigkcmodule.cpp:142
 #, kde-format
 msgid "Install a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:145
+#: src/gtkconfigkcmodule.cpp:143
 #, kde-format
 msgid "Uninstall a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:351
+#: src/gtkconfigkcmodule.cpp:349
 #, kde-format
 msgid "Failed to save configuration."
 msgstr ""
@@ -258,13 +253,13 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: src/ui/dialog_installer.ui:177
 #, kde-format
-msgid "Add New Icons Theme"
+msgid "Add New Icon Theme"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, but_icon_install)
 #: src/ui/dialog_installer.ui:254
 #, kde-format
-msgid "Install Icons"
+msgid "Install Icon Theme"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, dialog_uninstaller)
@@ -304,148 +299,150 @@ msgstr ""
 msgid "Remove Icon Theme"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QToolButton, newThemes)
-#: src/ui/gui.ui:17
-#, kde-format
-msgid ""
-"<html><head/><body><p>Here you can find more GTK themes to try. You can "
-"either download them from the following websites.</p><p>Also you can "
-"download it from the opendesktop facilities as suggested below</p><p align="
-"\"center\"><a href=\"http://gnome-look.org\"><span style=\" text-decoration: "
-"underline; color:#0000ff;\">gnome-look.org</span></a><br/><a href=\"art."
-"gnome.org\"><span style=\" text-decoration: underline; color:#0000ff;\">art."
-"gnome.org</span></a></p></body></html>"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QToolButton, newThemes)
-#: src/ui/gui.ui:20
-#, kde-format
-msgid "Get New GNOME/GTK Application Styles..."
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
-#: src/ui/gui.ui:50
-#, kde-format
-msgid "Icon Themes"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_11)
-#: src/ui/gui.ui:56
-#, kde-format
-msgid "Cursor theme:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_10)
-#: src/ui/gui.ui:76
-#, kde-format
-msgid "Icon theme:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: src/ui/gui.ui:96
-#, kde-format
-msgid "Fallback theme:"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: src/ui/gui.ui:320
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
+#: src/ui/gui.ui:25
 #, kde-format
 msgid "GTK Themes"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_9)
-#: src/ui/gui.ui:326
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: src/ui/gui.ui:34
 #, kde-format
-msgid "Select a GTK2 Theme:"
+msgid "GTK2 theme:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, gtk2Preview)
 #. i18n: ectx: property (toolTip), widget (QToolButton, gtk3Preview)
-#: src/ui/gui.ui:348 src/ui/gui.ui:382
+#: src/ui/gui.ui:53 src/ui/gui.ui:84
 #, kde-format
-msgid "Preview theme"
+msgid "Preview Theme"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_21)
-#: src/ui/gui.ui:360
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/gui.ui:65
 #, kde-format
-msgid "Select a GTK3 Theme:"
+msgid "GTK3 theme:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox_theme_gtk3_prefer_dark)
+#: src/ui/gui.ui:96
+#, kde-format
+msgid "Prefer dark theme"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
-#: src/ui/gui.ui:394
+#: src/ui/gui.ui:103
 #, kde-format
 msgid "Font:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#: src/ui/gui.ui:411
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/ui/gui.ui:129
 #, kde-format
-msgid "Prefer Dark GTK3 Theme"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
-#: src/ui/gui.ui:434
-#, kde-format
-msgid "Behaviour"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: src/ui/gui.ui:443
-#, kde-format
-msgid "GTK style toolbar:"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
-#: src/ui/gui.ui:451
-#, kde-format
-msgid "Icons Only"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
-#: src/ui/gui.ui:456
-#, kde-format
-msgid "Text Only"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
-#: src/ui/gui.ui:461
-#, kde-format
-msgid "Text Under Icons"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
-#: src/ui/gui.ui:466
-#, kde-format
-msgid "Text After Icons"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_22)
-#: src/ui/gui.ui:474
-#, kde-format
-msgid "Show icons in GTK buttons:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_23)
-#: src/ui/gui.ui:488
-#, kde-format
-msgid "Show icons in GTK menus:"
+msgid "Behavior"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: src/ui/gui.ui:502
+#: src/ui/gui.ui:138
 #, kde-format
-msgid "On left-clicking the scroll bar:"
+msgid "Toolbar label:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:149
+#, kde-format
+msgid "None"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:154
+#, kde-format
+msgid "Text only"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:159
+#, kde-format
+msgid "Beside icons"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:164
+#, kde-format
+msgid "Below icons"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/gui.ui:172
+#, kde-format
+msgid "Show icons:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/gui.ui:179
+#, kde-format
+msgid "On scrollbar left-click:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox_icon_gtk_buttons)
+#: src/ui/gui.ui:186
+#, kde-format
+msgid "On buttons"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox_icon_gtk_menus)
+#: src/ui/gui.ui:196
+#, kde-format
+msgid "In menus"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton_dont_warp)
-#: src/ui/gui.ui:509
+#: src/ui/gui.ui:206
 #, kde-format
 msgid "Scro&ll one page up/down"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton_warp)
-#: src/ui/gui.ui:522
+#: src/ui/gui.ui:219
 #, kde-format
-msgid "&Jump to the mouse cursor position"
+msgid "&Jump to mouse cursor position"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: src/ui/gui.ui:240
+#, kde-format
+msgid "Icon Themes"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/ui/gui.ui:254
+#, kde-format
+msgid "Icon theme:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/ui/gui.ui:267
+#, kde-format
+msgid "Fallback theme:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/ui/gui.ui:280
+#, kde-format
+msgid "Cursor theme:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, newThemes)
+#: src/ui/gui.ui:470
+#, kde-format
+msgid ""
+"<html><head/><body><p>Here you can install new GTK themes. Even more are "
+"available at <a href=\"http://gnome-look.org\"><span style=\" text-"
+"decoration: underline;\">gnome-look.org</span></a></p></body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, newThemes)
+#: src/ui/gui.ui:473
+#, kde-format
+msgid "Get New GNOME/GTK Application Styles..."
 msgstr ""

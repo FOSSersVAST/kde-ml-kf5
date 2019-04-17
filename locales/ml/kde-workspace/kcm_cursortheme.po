@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"POT-Creation-Date: 2019-04-06 03:38+0200\n"
 "PO-Revision-Date: 2008-11-12 12:27+0530\n"
 "Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
 "Language-Team:  Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -30,69 +30,63 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "shijualexonline@gmail.com"
 
-#: kcmcursortheme.cpp:73
-#, fuzzy, kde-format
-#| msgid "&Cursor Theme"
-msgid "Cursor Theme"
-msgstr "&കര്‍സര്‍ പ്രമേയം"
-
 #: kcmcursortheme.cpp:74
 #, fuzzy, kde-format
 #| msgid "&Cursor Theme"
-msgid "Mouse Cursor Theme settings"
+msgid "Cursors"
 msgstr "&കര്‍സര്‍ പ്രമേയം"
 
-#: kcmcursortheme.cpp:74
+#: kcmcursortheme.cpp:75
 #, kde-format
 msgid "(c) 2003-2007 Fredrik Höglund"
 msgstr ""
 
-#: kcmcursortheme.cpp:75
+#: kcmcursortheme.cpp:76
 #, kde-format
 msgid "Fredrik Höglund"
 msgstr ""
 
-#: kcmcursortheme.cpp:76
+#: kcmcursortheme.cpp:77
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: kcmcursortheme.cpp:235
+#: kcmcursortheme.cpp:244
 #, kde-format
 msgctxt "@item:inlistbox size"
 msgid "Resolution dependent"
 msgstr ""
 
-#: kcmcursortheme.cpp:364
+#: kcmcursortheme.cpp:376
 #, fuzzy, kde-format
 #| msgid "You have to restart KDE for these changes to take effect."
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ കെഡി‌ഇ വീണ്ടും തുടങ്ങണം."
 
-#: kcmcursortheme.cpp:466
+#: kcmcursortheme.cpp:511
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: kcmcursortheme.cpp:477
+#: kcmcursortheme.cpp:523
 #, fuzzy, kde-format
 #| msgid "Unable to find the cursor theme archive %1."
 msgid "Unable to download the icon theme archive: %1"
 msgstr "%1 എന്ന കര്‍സര്‍ പ്രമേയം കണ്ടെത്താന്‍ കഴിഞ്ഞില്ല."
 
-#: kcmcursortheme.cpp:507
+#: kcmcursortheme.cpp:554
 #, fuzzy, kde-format
 #| msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgid "The file is not a valid icon theme archive."
 msgstr "%1 എന്ന പ്രമാണം സാധുവായ ഒരു കര്‍സര്‍ പ്രമേയം ആണെന്നു തോന്നുന്നില്ല."
 
-#: kcmcursortheme.cpp:514
+#: kcmcursortheme.cpp:561
 #, kde-format
 msgid "Failed to create 'icons' folder."
 msgstr ""
 
-#: kcmcursortheme.cpp:522
+#: kcmcursortheme.cpp:569
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
@@ -101,17 +95,17 @@ msgstr ""
 "താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിലുള്ള ഒരു പ്രമേയം നിലവിലുണ്ട്. താങ്കള്‍ക്കു "
 "അതിനെ ഈ പ്രമേയം കൊണ്ടു റീപ്ലേസ് ചെയ്യണമോ?"
 
-#: kcmcursortheme.cpp:526
+#: kcmcursortheme.cpp:573
 #, kde-format
 msgid "Overwrite Theme?"
 msgstr "പ്രമേയം മാറ്റിയെഴുതട്ടെ?"
 
-#: kcmcursortheme.cpp:552
+#: kcmcursortheme.cpp:599
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcmcursortheme.cpp:568
+#: kcmcursortheme.cpp:615
 #, kde-format
 msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
@@ -120,7 +114,7 @@ msgstr ""
 "<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം മായ്ക്കുവാന്‍ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />ആദ്യം "
 "മറ്റൊരു തീമിലേക്കു മാറേണ്ടതാണു.</qt>"
 
-#: kcmcursortheme.cpp:574
+#: kcmcursortheme.cpp:621
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
@@ -129,7 +123,7 @@ msgstr ""
 "<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍ത്തനം "
 "%1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
 
-#: kcmcursortheme.cpp:580
+#: kcmcursortheme.cpp:627
 #, kde-format
 msgid "Confirmation"
 msgstr "സ്ഥിരീകരണം"
@@ -141,33 +135,33 @@ msgstr "പ്രമേയം കളയുക"
 
 #: package/contents/ui/main.qml:31
 #, kde-format
-msgid "This module lets you configure the mouse cursor theme used."
+msgid "This module lets you choose the mouse cursor theme."
 msgstr ""
 
-#: package/contents/ui/main.qml:96
+#: package/contents/ui/main.qml:98
 #, kde-format
 msgid "Size:"
 msgstr ""
 
-#: package/contents/ui/main.qml:139
+#: package/contents/ui/main.qml:146
 #, fuzzy, kde-format
 #| msgid "Install New Theme..."
-msgid "&Install From File..."
+msgid "&Install from File..."
 msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
-#: package/contents/ui/main.qml:145
+#: package/contents/ui/main.qml:152
 #, fuzzy, kde-format
 #| msgid "Install New Theme..."
 msgid "&Get New Cursors..."
 msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
-#: package/contents/ui/main.qml:167
+#: package/contents/ui/main.qml:174
 #, fuzzy, kde-format
 #| msgid "Remove Theme"
 msgid "Open Theme"
 msgstr "പ്രമേയം കളയുക"
 
-#: package/contents/ui/main.qml:169
+#: package/contents/ui/main.qml:176
 #, kde-format
 msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
 msgstr ""
@@ -189,6 +183,11 @@ msgctxt ""
 "'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
 msgid "(Available sizes: %1)"
 msgstr ""
+
+#, fuzzy
+#~| msgid "&Cursor Theme"
+#~ msgid "Mouse Cursor Theme settings"
+#~ msgstr "&കര്‍സര്‍ പ്രമേയം"
 
 #~ msgid "Cursor Settings Changed"
 #~ msgstr "കര്‍സറിന്റെ ക്രമീകരണങ്ങള്‍ മാറി"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2019-01-16 03:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,7 +34,7 @@ msgctxt "%1 is the displayed data transfer speed in kilobits per second"
 msgid "%1 Kbps"
 msgstr ""
 
-#: contents/ui/net.qml:52
+#: contents/ui/net.qml:51
 #, kde-format
 msgctxt "%1 is the displayed data transfer speed in bits per second"
 msgid "%1 bps"

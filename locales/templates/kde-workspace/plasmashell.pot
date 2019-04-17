@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2019-02-27 03:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -201,17 +201,17 @@ msgstr ""
 msgid "Activate Task Manager Entry %1"
 msgstr ""
 
-#: shellcorona.cpp:1356
+#: shellcorona.cpp:1364
 #, kde-format
 msgid "Unable to load script file: %1"
 msgstr ""
 
-#: shellcorona.cpp:1724 shellcorona.cpp:1730
+#: shellcorona.cpp:1731 shellcorona.cpp:1737
 #, kde-format
 msgid "Add Panel"
 msgstr ""
 
-#: shellcorona.cpp:1772
+#: shellcorona.cpp:1779
 #, kde-format
 msgid "Empty %1"
 msgstr ""

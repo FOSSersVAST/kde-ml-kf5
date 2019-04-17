@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"POT-Creation-Date: 2019-04-16 03:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -49,29 +49,29 @@ msgstr ""
 msgid "Format Settings Changed"
 msgstr ""
 
-#: kcmformats.cpp:331
+#: kcmformats.cpp:341
 #, kde-format
 msgid "%1 (long format)"
 msgstr ""
 
-#: kcmformats.cpp:332
+#: kcmformats.cpp:342
 #, kde-format
 msgid "%1 (short format)"
 msgstr ""
 
-#: kcmformats.cpp:337
+#: kcmformats.cpp:347
 #, kde-format
 msgctxt "Measurement combobox"
 msgid "Imperial UK"
 msgstr ""
 
-#: kcmformats.cpp:339
+#: kcmformats.cpp:349
 #, kde-format
 msgctxt "Measurement combobox"
 msgid "Imperial US"
 msgstr ""
 
-#: kcmformats.cpp:341
+#: kcmformats.cpp:351
 #, kde-format
 msgctxt "Measurement combobox"
 msgid "Metric"

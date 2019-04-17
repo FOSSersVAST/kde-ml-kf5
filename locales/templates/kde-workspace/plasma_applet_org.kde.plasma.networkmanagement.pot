@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-18 03:58+0200\n"
+"POT-Creation-Date: 2019-03-30 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -32,32 +32,38 @@ msgstr ""
 msgid "Show and configure virtual connections"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:113
+#: contents/ui/ConnectionItem.qml:116
 #, kde-format
 msgid "Connect"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:113
+#: contents/ui/ConnectionItem.qml:116
 #, kde-format
 msgid "Disconnect"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:159
+#: contents/ui/ConnectionItem.qml:170
+#, kde-format
+msgid "Configure..."
+msgstr ""
+
+#: contents/ui/ConnectionItem.qml:195
 #, kde-format
 msgid "Speed"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:164
+#: contents/ui/ConnectionItem.qml:200
 #, kde-format
 msgid "Details"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:334
+#: contents/ui/ConnectionItem.qml:370
 #, kde-format
-msgid "Connected, <font color='%1'>⬇</font> %2, <font color='%3'>⬆</font> %4"
+msgid ""
+"Connected, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:340
+#: contents/ui/ConnectionItem.qml:376
 #, kde-format
 msgid "Connected"
 msgstr ""
@@ -87,24 +93,36 @@ msgstr ""
 msgid "Password..."
 msgstr ""
 
-#: contents/ui/Toolbar.qml:69
+#: contents/ui/Toolbar.qml:71
 #, kde-format
 msgid "Enable wireless"
 msgstr ""
 
-#: contents/ui/Toolbar.qml:83
+#: contents/ui/Toolbar.qml:85
 #, kde-format
 msgid "Enable mobile network"
 msgstr ""
 
-#: contents/ui/Toolbar.qml:98
+#: contents/ui/Toolbar.qml:100
 #, kde-format
 msgid "Enable airplane mode"
 msgstr ""
 
-#: contents/ui/Toolbar.qml:124
+#: contents/ui/Toolbar.qml:122
+#, kde-format
+msgctxt "button tooltip"
+msgid "Search the connections"
+msgstr ""
+
+#: contents/ui/Toolbar.qml:129
 #, kde-format
 msgid "Configure network connections..."
+msgstr ""
+
+#: contents/ui/Toolbar.qml:150
+#, kde-format
+msgctxt "text field placeholder text"
+msgid "Search..."
 msgstr ""
 
 #: contents/ui/TrafficMonitor.qml:45
