@@ -14,6 +14,7 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
 
 * Set the package :
   ```
+  git checkout master
   export REPO_ROOT=$PWD
   export PACKAGE=''
   ```
