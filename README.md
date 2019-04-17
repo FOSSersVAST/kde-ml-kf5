@@ -46,5 +46,6 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   svn update
   cd $REPO_ROOT/locales/ml/$PACKAGE
   svn update
-  git commit -a -m "Merge changes from KDE upstream"
+  cd $REPO_ROOT
+  git commit $REPO_ROOT/locales -m "Merge changes from KDE upstream"
   ```
