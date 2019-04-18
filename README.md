@@ -36,6 +36,11 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   cd $REPO_ROOT/locales/ml/$PACKAGE
   svn checkout svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ml/messages/$PACKAGE .
   ```
+* Merge changes and add new files from `templates` to `ml` :
+  ```
+  cd $REPO_ROOT
+  ./update-from-templates.sh
+  ```
 * Commit & Push :
   ```
   cd $REPO_ROOT
@@ -43,6 +48,9 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   git commit $REPO_ROOT/locales -m "Added $PACKAGE locale files"
   git push --set-upstream origin $PACKAGE
   ```
+
+## Updating a package
+
 * To pull changes from KDE SVN upstream :
   ```
   git checkout $PACKAGE
@@ -52,4 +60,9 @@ Find the package to add from [here](https://l10n.kde.org/stats/gui/trunk-kf5/pac
   svn update
   cd $REPO_ROOT
   git commit $REPO_ROOT/locales -m "Merge changes from KDE upstream"
+  ```
+* Merge changes and add new files from `templates` to `ml` :
+  ```
+  cd $REPO_ROOT
+  ./update-from-templates.sh
   ```
